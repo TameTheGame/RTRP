@@ -1,0 +1,1931 @@
+
+11/02[22:13]Alexander Dolohov (STEAM_0:1:14536052) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/02[22:13]CiP4.45-CCA.10268 (STEAM_0:0:5684910) killed Alexander Dolohov (STEAM_0:1:14536052) with player
+11/02[22:16]Bob Akir (STEAM_0:0:6033181) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/02[22:17]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/02[22:17]gmod_turret killed CEU3.45-CCA.26312 (STEAM_0:0:13201389) with gmod_turret
+11/02[22:17]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/02[22:18]Matthew Smith (STEAM_0:1:15251953) killed CiP4.45-CCA.45401 (STEAM_0:0:9087358) with player
+11/02[22:18]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed Matthew Smith (STEAM_0:1:15251953) with player
+11/02[22:19]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/02[22:19]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/02[22:19]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/02[22:19]Bob Akir (STEAM_0:0:6033181) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/02[22:19]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/02[22:19]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/02[22:19]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/02[22:20]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/02[22:21]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/02[22:21]CiP4.45-CCA.45401 (STEAM_0:0:9087358) killed Central Kolowski (STEAM_0:0:5965584) with player
+11/02[22:22]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/02[22:22]Bob Akir (STEAM_0:0:6033181) killed CEU3.45-CCA.26312 (STEAM_0:0:13201389) with player
+11/02[22:23]Klara Severin (STEAM_0:1:12591206) killed Klara Severin (STEAM_0:1:12591206) with player
+11/02[22:23]Matthew Smith (STEAM_0:1:15251953) killed Matthew Smith (STEAM_0:1:15251953) with player
+11/02[22:25]CiP4.45-CCA.45401 (STEAM_0:0:9087358) killed CiP4.45-CCA.45401 (STEAM_0:0:9087358) with player
+11/02[22:26]prop_physics killed Engerius Greel (STEAM_0:0:15657638) with prop_physics
+11/02[22:26]Jessica Smith (STEAM_0:0:138745) killed CEU3.45-CCA.26312 (STEAM_0:0:13201389) with player
+11/02[22:28]prop_physics killed Engerius Greel (STEAM_0:0:15657638) with prop_physics
+11/02[22:29]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/02[22:30]Isaac Irving (STEAM_0:1:6464897) killed Isaac Irving (STEAM_0:1:6464897) with player
+11/02[22:30]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed CiP2.45-CCA.23641 (STEAM_0:0:11605597) with player
+11/02[22:32]CEU3.45-CCA.26312 (STEAM_0:0:13201389) killed CEU3.45-CCA.26312 (STEAM_0:0:13201389) with player
+11/02[22:33]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed Alexander Dolohov (STEAM_0:1:14536052) with player
+11/02[22:34]Isaac Irving (STEAM_0:1:6464897) killed Isaac Irving (STEAM_0:1:6464897) with player
+11/02[22:46]CEU3.45-CCA.26312 (STEAM_0:0:13201389) killed CEU3.45-CCA.26312 (STEAM_0:0:13201389) with player
+11/02[22:47]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/02[22:52]Alex Suicide (STEAM_0:0:7861198) killed Alex Suicide (STEAM_0:0:7861198) with player
+11/02[22:53]CEU3.45-CCA.26312 (STEAM_0:0:13201389) killed CEU3.45-CCA.26312 (STEAM_0:0:13201389) with player
+11/02[22:53]Bennet Dyson (STEAM_0:1:5558212) killed Bennet Dyson (STEAM_0:1:5558212) with player
+11/02[22:53]Bennet Dyson (STEAM_0:1:5558212) killed Bennet Dyson (STEAM_0:1:5558212) with player
+11/02[22:54]Jessica Smith (STEAM_0:0:138745) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/02[22:54]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed Simon ' Wright ' Frost (STEAM_0:0:12854354) with player
+11/02[22:54]Dave Hinrichs (STEAM_0:0:12495068) killed Dave Hinrichs (STEAM_0:0:12495068) with player
+11/02[22:54]Bennet Dyson (STEAM_0:1:5558212) killed Bennet Dyson (STEAM_0:1:5558212) with player
+11/02[22:54]Dave Hinrichs (STEAM_0:0:12495068) killed Dave Hinrichs (STEAM_0:0:12495068) with player
+11/02[22:55]Bennet Dyson (STEAM_0:1:5558212) killed Bennet Dyson (STEAM_0:1:5558212) with player
+11/02[22:55]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/02[22:56]Simon ' Wright ' Frost (STEAM_0:0:12854354) killed Simon ' Wright ' Frost (STEAM_0:0:12854354) with player
+11/02[22:56]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/02[22:56]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/02[22:58]Klara Severin (STEAM_0:1:12591206) killed Klara Severin (STEAM_0:1:12591206) with player
+11/02[22:58]??? Howards (STEAM_0:1:11646467) killed ??? Howards (STEAM_0:1:11646467) with player
+11/02[23:00]CiP.45-CCA.Temp-174 (STEAM_0:1:10671526) killed CiP.45-CCA.Temp-174 (STEAM_0:1:10671526) with player
+11/02[23:01]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/02[23:02]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed CiP2.45-CCA.23641 (STEAM_0:0:11605597) with player
+11/02[23:04]CEU3.45-CCA.19032 (STEAM_0:1:6094935) killed CEU3.45-CCA.19032 (STEAM_0:1:6094935) with player
+11/02[23:06]Alex Suicide (STEAM_0:0:7861198) killed Alex Suicide (STEAM_0:0:7861198) with player
+11/02[23:06]Dave Hinrichs (STEAM_0:0:12495068) killed Dave Hinrichs (STEAM_0:0:12495068) with player
+11/02[23:06]Isaac Irving (STEAM_0:1:6464897) killed Isaac Irving (STEAM_0:1:6464897) with player
+11/02[23:08]Raiden Marshall (STEAM_0:1:6619152) killed Raiden Marshall (STEAM_0:1:6619152) with player
+11/02[23:08]Tom Johnson (STEAM_0:0:8766305) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/02[23:08]Zack Hunter (STEAM_0:0:7861198) killed Zack Hunter (STEAM_0:0:7861198) with player
+11/02[23:10]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/02[23:10]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed CCA-N.45.Stalker.048 (STEAM_0:0:12854354) with player
+11/02[23:15]prop_physics killed CCA-N.45.Stalker.048 (STEAM_0:0:12854354) with prop_physics
+11/02[23:15]Zack Hunter (STEAM_0:0:7861198) killed Zack Hunter (STEAM_0:0:7861198) with player
+11/02[23:16]prop_physics killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with prop_physics
+11/02[23:16]prop_physics killed CEU3.45-CCA.19032 (STEAM_0:1:6094935) with prop_physics
+11/02[23:16]worldspawn killed CiP2.45-CCA.23641 (STEAM_0:0:11605597)
+11/02[23:16]CiP.45-CCA.TEMP-182 (STEAM_0:1:2588123) killed CiP.45-CCA.TEMP-182 (STEAM_0:1:2588123) with player
+11/02[23:16]CiP.45-CCA.TEMP-182 (STEAM_0:1:2588123) killed CiP.45-CCA.TEMP-182 (STEAM_0:1:2588123) with player
+11/02[23:17]Nemka Klein (STEAM_0:1:14170344) killed Nemka Klein (STEAM_0:1:14170344) with player
+11/02[23:17]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed CCA-N.45.Stalker.048 (STEAM_0:0:12854354) with player
+11/02[23:20]CEU2.45-CCA.55018 (STEAM_0:1:7752135) killed CEU2.45-CCA.55018 (STEAM_0:1:7752135) with player
+11/02[23:20]Mathew Phillips (STEAM_0:1:7667364) killed Jessica Smith (STEAM_0:0:138745) with player
+11/02[23:22]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/02[23:24]CiP.45-CCA.TEMP-182 (STEAM_0:1:2588123) killed CiP.45-CCA.TEMP-182 (STEAM_0:1:2588123) with player
+11/02[23:24]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Xavier ' X ' Cooladge (STEAM_0:0:13201389) with player
+11/02[23:25]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Xavier ' X ' Cooladge (STEAM_0:0:13201389) with player
+11/02[23:26]CiP.45-CCA.TEMP-182 (STEAM_0:1:2588123) killed Xavier ' X ' Cooladge (STEAM_0:0:13201389) with player
+11/02[23:29]trigger_hurt killed Vasili Severin (STEAM_0:1:9832820) with trigger_hurt
+11/02[23:30]OW.HEL-TRI.16910 (STEAM_0:1:8517833) killed OW.HEL-TRI.16910 (STEAM_0:1:8517833) with player
+11/02[23:30]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/02[23:31]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:31]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:31]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:31]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:31]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:31]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:31]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:31]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:31]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:31]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:32]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:33]prop_physics killed Jessica Smith (STEAM_0:0:138745) with prop_physics
+11/02[23:34]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:34]worldspawn killed Jody Vorup (STEAM_0:1:4241097)
+11/02[23:37]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed Meryl Milo (STEAM_0:1:12543891) with player
+11/02[23:38]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed Xavier ' X ' Cooladge (STEAM_0:0:13201389) with player
+11/02[23:38]Tom Johnson (STEAM_0:0:8766305) killed Bryan Herman (STEAM_0:0:13559354) with player
+11/02[23:38]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/02[23:40]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/02[23:43]Tom Johnson (STEAM_0:0:8766305) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/02[23:44]Jody Vorup (STEAM_0:1:4241097) killed Jody Vorup (STEAM_0:1:4241097) with player
+11/02[23:45]Bob Akir (STEAM_0:0:6033181) killed CEU3.45-CCA.19032 (STEAM_0:1:6094935) with player
+11/02[23:46]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:47]Matteo Vessetto (STEAM_0:0:992170) killed Matteo Vessetto (STEAM_0:0:992170) with player
+11/02[23:48]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/02[23:48]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Bennet Dyson (STEAM_0:1:5558212) with player
+11/02[23:48]Brandon Wihit (STEAM_0:1:10273270) killed CiP.45-CCA.TEMP-182 (STEAM_0:1:2588123) with player
+11/02[23:48]CiP.45-CCA.Temp-174 (STEAM_0:1:10671526) killed Bryan Herman (STEAM_0:0:13559354) with player
+11/02[23:48]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/02[23:49]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:49]Mathew Phillips (STEAM_0:1:7667364) killed OW.HEL-TRI.16910 (STEAM_0:1:8517833) with player
+11/02[23:49]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/02[23:49]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Xavier ' X ' Cooladge (STEAM_0:0:13201389) with player
+11/02[23:50]Rex Lee (STEAM_0:0:9103466) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/02[23:50]CEU3.45-CCA.19032 (STEAM_0:1:6094935) killed CEU3.45-CCA.19032 (STEAM_0:1:6094935) with player
+11/02[23:51]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Matteo Vessetto (STEAM_0:0:992170) with player
+11/02[23:51]CiP.45-CCA.Temp-174 (STEAM_0:1:10671526) killed Will Morlonie (STEAM_0:1:7233314) with player
+11/02[23:51]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/02[23:51]Daniel Beach (STEAM_0:1:11843329) killed CiP.45-CCA.Temp-174 (STEAM_0:1:10671526) with player
+11/02[23:52]CiP.45-CCA.TEMP-182 (STEAM_0:1:2588123) killed Bryan Herman (STEAM_0:0:13559354) with player
+11/02[23:52]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed Bryan Herman (STEAM_0:0:13559354) with player
+11/02[23:52]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed Jessica Smith (STEAM_0:0:138745) with player
+11/02[23:53]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed Central Kolowski (STEAM_0:0:5965584) with player
+11/02[23:53]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Nemka Klein (STEAM_0:1:14170344) with player
+11/02[23:53]CiP4.45-CCA.45401 (STEAM_0:0:9087358) killed CiP4.45-CCA.45401 (STEAM_0:0:9087358) with player
+11/02[23:54]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/02[23:55]CiP4.45-CCA.45401 (STEAM_0:0:9087358) killed CiP4.45-CCA.45401 (STEAM_0:0:9087358) with player
+11/02[23:56]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/02[23:56]CiP.45-CCA.TEMP-182 (STEAM_0:1:2588123) killed CiP.45-CCA.TEMP-182 (STEAM_0:1:2588123) with player
+11/02[23:57]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/02[23:59]trigger_hurt killed Will Morlonie (STEAM_0:1:7233314) with trigger_hurt
+11/03[00:00]trigger_hurt killed Bryan Herman (STEAM_0:0:13559354) with trigger_hurt
+11/03[00:01]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[00:01]Gordy Harmony (STEAM_0:1:10671526) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/03[00:01]CiP.45-CCA.Temp-182 (STEAM_0:1:2588123) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[00:02]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/03[00:02]OW.HEL-TRI.16910 (STEAM_0:1:8517833) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:02]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed Jackson Willson (STEAM_0:0:10353842) with player
+11/03[00:02]Will Morlonie (STEAM_0:1:7233314) killed Will Morlonie (STEAM_0:1:7233314) with player
+11/03[00:03]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[00:03]Will Morlonie (STEAM_0:1:7233314) killed Will Morlonie (STEAM_0:1:7233314) with player
+11/03[00:03]Rex Lee (STEAM_0:0:9103466) killed CEU3.45-CCA.19032 (STEAM_0:1:6094935) with player
+11/03[00:05]prop_ragdoll killed Vladimir Ivanov (STEAM_0:1:11763213) with prop_ragdoll
+11/03[00:06]Tom Johnson (STEAM_0:0:8766305) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/03[00:06]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:07]Raiden Marshall (STEAM_0:1:6619152) killed Raiden Marshall (STEAM_0:1:6619152) with player
+11/03[00:08]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:08]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:08]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:10]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:10]Xavier ' X ' Cooladge (STEAM_0:0:13201389) killed Xavier ' X ' Cooladge (STEAM_0:0:13201389) with player
+11/03[00:10]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:10]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:10]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:10]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:10]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:10]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:12]CCA-N.45.Stalker.048 (STEAM_0:0:12854354) killed CCA-N.45.Stalker.048 (STEAM_0:0:12854354) with player
+11/03[00:12]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:12]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:13]Jill Shaal (STEAM_0:0:6967315) killed Jill Shaal (STEAM_0:0:6967315) with player
+11/03[00:14]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[00:16]CiP.45-CCA.Temp-182 (STEAM_0:1:2588123) killed CiP.45-CCA.Temp-182 (STEAM_0:1:2588123) with player
+11/03[00:16]John Vanhood (STEAM_0:0:8939877) killed John Vanhood (STEAM_0:0:8939877) with player
+11/03[00:17]OW.HEL-TRI.16910 (STEAM_0:1:8517833) killed Matteo Vessetto (STEAM_0:0:992170) with player
+11/03[00:17]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/03[00:21]Ryan Ocelot (STEAM_0:0:9087358) killed Ryan Ocelot (STEAM_0:0:9087358) with player
+11/03[00:21]Jessica Smith (STEAM_0:0:138745) killed Simon ' Wright ' Frost (STEAM_0:0:12854354) with player
+11/03[00:21]Will Morlonie (STEAM_0:1:7233314) killed Will Morlonie (STEAM_0:1:7233314) with player
+11/03[00:21]Jessica Smith (STEAM_0:0:138745) killed Jessica Smith (STEAM_0:0:138745) with player
+11/03[00:24]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/03[00:24]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/03[00:25]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/03[00:25]Rex Lee (STEAM_0:0:9103466) killed Rex Lee (STEAM_0:0:9103466) with player
+11/03[00:25]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/03[00:26]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/03[00:27]worldspawn killed Tom Johnson (STEAM_0:0:8766305)
+11/03[00:27]Tom Johnson (STEAM_0:0:8766305) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/03[00:29]OW.HEL-TRI.16910 (STEAM_0:1:8517833) killed OW.HEL-TRI.16910 (STEAM_0:1:8517833) with player
+11/03[00:30]prop_physics killed Brandon Wihit (STEAM_0:1:10273270) with prop_physics
+11/03[00:30]worldspawn killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135)
+11/03[00:31]worldspawn killed OW.HEL-TRI.16910 (STEAM_0:1:8517833)
+11/03[00:31]worldspawn killed CiP2.45-CCA.23641 (STEAM_0:0:11605597)
+11/03[00:32]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[00:32]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[00:33]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[00:33]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[00:33]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[00:33]worldspawn killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876)
+11/03[00:33]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[00:33]CiP.45-CCA.Temp-182 (STEAM_0:1:2588123) killed CiP.45-CCA.Temp-182 (STEAM_0:1:2588123) with player
+11/03[00:33]worldspawn killed OW.HEL-TRI.16910 (STEAM_0:1:8517833)
+11/03[00:34]OW.HEL-TRI.16910 (STEAM_0:1:8517833) killed OW.HEL-TRI.16910 (STEAM_0:1:8517833) with player
+11/03[00:34]worldspawn killed Jackson Willson (STEAM_0:0:10353842)
+11/03[00:36]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/03[00:36]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-TRI.16910 (STEAM_0:1:8517833) with player
+11/03[00:37]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/03[00:38]OW.HEL-COMM.T46977 (STEAM_0:1:11556876) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/03[00:38]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed OW.HEL-COMM.T46977 (STEAM_0:1:11556876) with player
+11/03[00:39]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/03[00:39]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[00:40]Brandon McNiel (STEAM_0:0:5965584) killed Brandon McNiel (STEAM_0:0:5965584) with player
+11/03[00:47]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[00:48]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[00:49]prop_physics killed Engerius Greel (STEAM_0:0:15657638) with prop_physics
+11/03[00:50]CiP4.45-CCA.15672 (STEAM_0:0:8975160) killed CiP4.45-CCA.15672 (STEAM_0:0:8975160) with player
+11/03[00:51]CiP4.45-CCA.45401 (STEAM_0:0:9087358) killed CiP4.45-CCA.45401 (STEAM_0:0:9087358) with player
+11/03[00:56]CiP.45-CCA.Temp-174 (STEAM_0:1:10671526) killed CiP.45-CCA.Temp-174 (STEAM_0:1:10671526) with player
+11/03[00:57]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[01:02]Gordy Harmony (STEAM_0:1:10671526) killed Aluku Vali (STEAM_0:0:10451033) with player
+11/03[01:06]Alison Gurrera (STEAM_0:0:14951129) killed Alison Gurrera (STEAM_0:0:14951129) with player
+11/03[01:15]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[01:16]Jack Wooten (STEAM_0:0:6227733) killed Jack Wooten (STEAM_0:0:6227733) with player
+11/03[01:16]CEU1.45-CTD.32039 (STEAM_0:1:2588123) killed CEU1.45-CTD.32039 (STEAM_0:1:2588123) with player
+11/03[01:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[01:18]Jack Wooten (STEAM_0:0:6227733) killed Jack Wooten (STEAM_0:0:6227733) with player
+11/03[01:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[01:18]Jack Wooten (STEAM_0:0:6227733) killed Jack Wooten (STEAM_0:0:6227733) with player
+11/03[01:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[01:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[01:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[01:20]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[01:24]Engerius Greel (STEAM_0:0:15657638) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[01:24]Paul Bourne (STEAM_0:0:11793378) killed Paul Bourne (STEAM_0:0:11793378) with player
+11/03[01:25]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Jack Wooten (STEAM_0:0:6227733) with player
+11/03[01:26]Engerius Greel (STEAM_0:0:15657638) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[01:26]Bill Vickson (STEAM_0:0:7561113) killed CEU1.45-CTD.32039 (STEAM_0:1:2588123) with player
+11/03[01:31]trigger_hurt killed John Jones (STEAM_0:1:16597267) with trigger_hurt
+11/03[01:32]Shay DiGian (STEAM_0:0:14386938) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[01:32]CEU1.45-CTD.32039 (STEAM_0:1:2588123) killed CEU1.45-CTD.32039 (STEAM_0:1:2588123) with player
+11/03[01:33]Ryan Ocelot (STEAM_0:0:9087358) killed Ryan Ocelot (STEAM_0:0:9087358) with player
+11/03[01:33]Shay DiGian (STEAM_0:0:14386938) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[01:34]Engerius Greel (STEAM_0:0:15657638) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[01:35]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[01:36]John ' Smashing ' Titticaca (STEAM_0:0:4436740) killed John ' Smashing ' Titticaca (STEAM_0:0:4436740) with player
+11/03[01:37]Jake Reddington (STEAM_0:0:8975160) killed Jake Reddington (STEAM_0:0:8975160) with player
+11/03[01:38]Logan Carter (STEAM_0:1:10420579) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[01:39]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[01:41]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[01:41]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[01:41]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[01:41]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[01:41]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[01:41]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[01:41]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[01:41]Gordy Harmony (STEAM_0:1:10671526) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[01:45]CiP3.45-CCA.68361 (STEAM_0:0:6363693) killed CiP3.45-CCA.68361 (STEAM_0:0:6363693) with player
+11/03[01:46]Ryan Ocelot (STEAM_0:0:9087358) killed CiP3.45-CCA.68361 (STEAM_0:0:6363693) with player
+11/03[01:48]prop_physics killed Charles Parker (STEAM_0:1:6068003) with prop_physics
+11/03[01:49]Mike Bauer (STEAM_0:1:12273216) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[01:49]Sigmund Andrews (STEAM_0:1:14121213) killed Sigmund Andrews (STEAM_0:1:14121213) with player
+11/03[01:53]Bill Vickson (STEAM_0:0:7561113) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[01:53]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[01:56]CiP2.45-CCA.16533 (STEAM_0:0:5304988) killed CiP2.45-CCA.16533 (STEAM_0:0:5304988) with player
+11/03[01:57]Engerius Greel (STEAM_0:0:15657638) killed CiP2.45-CCA.16533 (STEAM_0:0:5304988) with player
+11/03[01:59]Gordy Harmony (STEAM_0:1:10671526) killed Aluku Vali (STEAM_0:0:10451033) with player
+11/03[02:00]Engerius Greel (STEAM_0:0:15657638) killed CiP2.45-CCA.16533 (STEAM_0:0:5304988) with player
+11/03[02:00]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[02:02]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed CiP2.45-CCA.23641 (STEAM_0:0:11605597) with player
+11/03[02:04]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed Bill Vickson (STEAM_0:0:7561113) with player
+11/03[02:04]Jake Reddington (STEAM_0:0:8975160) killed Jake Reddington (STEAM_0:0:8975160) with player
+11/03[02:05]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[02:06]trigger_hurt killed Shay DiGian (STEAM_0:0:14386938) with trigger_hurt
+11/03[02:06]prop_physics killed Adam Markov (STEAM_0:1:2588123) with prop_physics
+11/03[02:07]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[02:09]Victor Vladameir (STEAM_0:0:16252371) killed Victor Vladameir (STEAM_0:0:16252371) with player
+11/03[02:09]John ' Smashing ' Titticaca (STEAM_0:0:4436740) killed John ' Smashing ' Titticaca (STEAM_0:0:4436740) with player
+11/03[02:11]CiP2.45-CCA.16533 (STEAM_0:0:5304988) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[02:13]CiP2.45-CCA.16533 (STEAM_0:0:5304988) killed John Jones (STEAM_0:1:16597267) with player
+11/03[02:15]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed CiP2.45-CCA.23641 (STEAM_0:0:11605597) with player
+11/03[02:19]Paul Bourne (STEAM_0:0:11793378) killed John Jones (STEAM_0:1:16597267) with player
+11/03[02:19]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed John ' Smashing ' Titticaca (STEAM_0:0:4436740) with player
+11/03[02:19]Thomas Bennington (STEAM_0:1:12750638) killed Victor Vladameir (STEAM_0:0:16252371) with player
+11/03[02:20]CiP2.45-CCA.16533 (STEAM_0:0:5304988) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[02:21]CiP2.45-CCA.16533 (STEAM_0:0:5304988) killed CiP2.45-CCA.16533 (STEAM_0:0:5304988) with player
+11/03[02:21]John Jones (STEAM_0:1:16597267) killed John Jones (STEAM_0:1:16597267) with player
+11/03[02:22]CiP2.45-CCA.16533 (STEAM_0:0:5304988) killed CiP2.45-CCA.16533 (STEAM_0:0:5304988) with player
+11/03[02:22]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[02:23]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[02:23]Nemka Klein (STEAM_0:1:14170344) killed Nemka Klein (STEAM_0:1:14170344) with player
+11/03[02:24]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[02:24]Craig Jones (STEAM_0:1:3463624) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[02:24]Craig Jones (STEAM_0:1:3463624) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[02:24]Craig Jones (STEAM_0:1:3463624) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[02:24]Craig Jones (STEAM_0:1:3463624) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[02:25]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[02:25]Jody Vorup (STEAM_0:1:4241097) killed Jody Vorup (STEAM_0:1:4241097) with player
+11/03[02:25]prop_physics killed Mike Bauer (STEAM_0:1:12273216) with prop_physics
+11/03[02:26]trigger_hurt killed Central Kolowski (STEAM_0:0:5965584) with trigger_hurt
+11/03[02:26]prop_physics killed Adam Markov (STEAM_0:1:2588123) with prop_physics
+11/03[02:27]worldspawn killed Jody Vorup (STEAM_0:1:4241097)
+11/03[02:27]Engerius Greel (STEAM_0:0:15657638) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[02:28]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed John Boswel (STEAM_0:1:13111073) with player
+11/03[02:28]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[02:30]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[02:31]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[02:32]CiP1.45-CCA.58764 (STEAM_0:1:3463624) killed CiP1.45-CCA.58764 (STEAM_0:1:3463624) with player
+11/03[02:32]CiP1.45-CCA.18912 (STEAM_0:0:7561113) killed CiP1.45-CCA.18912 (STEAM_0:0:7561113) with player
+11/03[02:34]asdasda (STEAM_0:1:3463624) killed asdasda (STEAM_0:1:3463624) with player
+11/03[02:34]asdasda (STEAM_0:1:3463624) killed asdasda (STEAM_0:1:3463624) with player
+11/03[02:34]asdasda (STEAM_0:1:3463624) killed asdasda (STEAM_0:1:3463624) with player
+11/03[02:34]asdasda (STEAM_0:1:3463624) killed asdasda (STEAM_0:1:3463624) with player
+11/03[02:35]Craig Jones (STEAM_0:1:3463624) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[02:35]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed CiP1.45-CCA.18912 (STEAM_0:0:7561113) with player
+11/03[02:35]John Jones (STEAM_0:1:16597267) killed John Jones (STEAM_0:1:16597267) with player
+11/03[02:35]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Jody Vorup (STEAM_0:1:4241097) with player
+11/03[02:36]John Jones (STEAM_0:1:16597267) killed John Jones (STEAM_0:1:16597267) with player
+11/03[02:36]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Jake C. Mofleno (STEAM_0:1:13195368) with player
+11/03[02:37]prop_physics killed John Jones (STEAM_0:1:16597267) with prop_physics
+11/03[02:37]CiP1.45-CCA.58764 (STEAM_0:1:3463624) killed CiP1.45-CCA.58764 (STEAM_0:1:3463624) with player
+11/03[02:37]CiP1.45-CCA.58764 (STEAM_0:1:3463624) killed CiP1.45-CCA.58764 (STEAM_0:1:3463624) with player
+11/03[02:38]Mathew Phillips (STEAM_0:1:7667364) killed Aborm Neshuit (STEAM_0:1:2834249) with player
+11/03[02:38]Craig Jones (STEAM_0:1:3463624) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[02:39]Jody Vorup (STEAM_0:1:4241097) killed Jody Vorup (STEAM_0:1:4241097) with player
+11/03[02:40]prop_physics killed John Jones (STEAM_0:1:16597267) with prop_physics
+11/03[02:40]CiP1.45-CCA.18912 (STEAM_0:0:7561113) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/03[02:41]Craig Jones (STEAM_0:1:3463624) killed Dexter Comings (STEAM_0:0:6168173) with player
+11/03[02:41]Craig Jones (STEAM_0:1:3463624) killed CiP1.45-CCA.18912 (STEAM_0:0:7561113) with player
+11/03[02:41]prop_physics killed Aborm Neshuit (STEAM_0:1:2834249) with prop_physics
+11/03[02:44]CiP2.45-CCA.16533 (STEAM_0:0:5304988) killed Gordy Harmony (STEAM_0:1:10671526) with player
+11/03[02:44]Shay DiGian (STEAM_0:0:14386938) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[02:45]prop_physics killed Dexter Comings (STEAM_0:0:6168173) with prop_physics
+11/03[02:48]Craig Jones (STEAM_0:1:3463624) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/03[02:50]Charles Parker (STEAM_0:1:6068003) killed John Jones (STEAM_0:1:16597267) with player
+11/03[02:54]Boris Egorov (STEAM_0:1:6052852) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[02:54]Boris Egorov (STEAM_0:1:6052852) killed Dexter Comings (STEAM_0:0:6168173) with player
+11/03[02:58]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/03[02:58]Jody Vorup (STEAM_0:1:4241097) killed Jody Vorup (STEAM_0:1:4241097) with player
+11/03[02:59]DeL.45-CCA.46977 (STEAM_0:1:11556876) killed DeL.45-CCA.46977 (STEAM_0:1:11556876) with player
+11/03[03:05]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[03:05]DeL.45-CCA.46977 (STEAM_0:1:11556876) killed Matthew Smith (STEAM_0:1:15251953) with player
+11/03[03:05]DeL.45-CCA.46977 (STEAM_0:1:11556876) killed DeL.45-CCA.46977 (STEAM_0:1:11556876) with player
+11/03[03:05]CiP2.45-CCA.16533 (STEAM_0:0:5304988) killed Jody Vorup (STEAM_0:1:4241097) with player
+11/03[03:06]Xavier ' X ' Cooladge (STEAM_0:0:13201389) killed Xavier ' X ' Cooladge (STEAM_0:0:13201389) with player
+11/03[03:07]Dexter Comings (STEAM_0:0:6168173) killed Dexter Comings (STEAM_0:0:6168173) with player
+11/03[03:07]Dexter Comings (STEAM_0:0:6168173) killed Dexter Comings (STEAM_0:0:6168173) with player
+11/03[03:10]Jody Vorup (STEAM_0:1:4241097) killed Jody Vorup (STEAM_0:1:4241097) with player
+11/03[03:14]Dexter Comings (STEAM_0:0:6168173) killed Dexter Comings (STEAM_0:0:6168173) with player
+11/03[03:15]worldspawn killed Matt Eagleson (STEAM_0:0:11692031)
+11/03[03:15]prop_physics killed Jody Vorup (STEAM_0:1:4241097) with prop_physics
+11/03[03:16]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[03:16]Charles Parker (STEAM_0:1:6068003) killed Matthew Smith (STEAM_0:1:15251953) with player
+11/03[03:17]Jody Vorup (STEAM_0:1:4241097) killed Jody Vorup (STEAM_0:1:4241097) with player
+11/03[03:17]Olaf Hernandez (STEAM_0:0:5122703) killed Olaf Hernandez (STEAM_0:0:5122703) with player
+11/03[03:19]Charles Parker (STEAM_0:1:6068003) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/03[03:26]DeL.45-CCA.46977 (STEAM_0:1:11556876) killed Central Kolowski (STEAM_0:0:5965584) with player
+11/03[03:29]Charles Parker (STEAM_0:1:6068003) killed John Jones (STEAM_0:1:16597267) with player
+11/03[03:30]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[03:31]Stan Gray (STEAM_0:1:13115627) killed Stan Gray (STEAM_0:1:13115627) with player
+11/03[03:31]Paul Bourne (STEAM_0:0:11793378) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[03:31]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[03:32]Paul Bourne (STEAM_0:0:11793378) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[03:34]DeL.45-CCA.46977 (STEAM_0:1:11556876) killed Ryan Ocelot (STEAM_0:0:9087358) with player
+11/03[03:34]Jody Vorup (STEAM_0:1:4241097) killed DeL.45-CCA.46977 (STEAM_0:1:11556876) with player
+11/03[03:35]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed OW.HEL-Comm.T46977 (STEAM_0:1:11556876) with player
+11/03[03:36]prop_physics killed John Jones (STEAM_0:1:16597267) with prop_physics
+11/03[03:38]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed James Jackson (STEAM_0:1:14738013) with player
+11/03[03:39]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[03:40]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed James Jackson (STEAM_0:1:14738013) with player
+11/03[03:45]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed Central Kolowski (STEAM_0:0:5965584) with player
+11/03[03:46]Jody Vorup (STEAM_0:1:4241097) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[03:46]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed John Jones (STEAM_0:1:16597267) with player
+11/03[03:46]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed James Jackson (STEAM_0:1:14738013) with player
+11/03[03:46]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed Jody Vorup (STEAM_0:1:4241097) with player
+11/03[03:46]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/03[03:47]John Jones (STEAM_0:1:16597267) killed John Jones (STEAM_0:1:16597267) with player
+11/03[03:48]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed James Jackson (STEAM_0:1:14738013) with player
+11/03[03:49]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed James Jackson (STEAM_0:1:14738013) with player
+11/03[03:49]John Jones (STEAM_0:1:16597267) killed John Jones (STEAM_0:1:16597267) with player
+11/03[03:50]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed John Jones (STEAM_0:1:16597267) with player
+11/03[04:04]Craig Jones (STEAM_0:1:3463624) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[04:04]Craig Jones (STEAM_0:1:3463624) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[04:04]Craig Jones (STEAM_0:1:3463624) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[04:05]Craig Jones (STEAM_0:1:3463624) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[04:05]Craig Jones (STEAM_0:1:3463624) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[04:05]Craig Jones (STEAM_0:1:3463624) killed Craig Jones (STEAM_0:1:3463624) with player
+11/03[04:07]Craig Jones (STEAM_0:1:3463624) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[07:14]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[07:17]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[07:19]Jody Vorup (STEAM_0:1:4241097) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[07:20]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[07:22]Stan Gray (STEAM_0:1:13115627) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[07:25]Phisan Suklin (STEAM_0:0:6737054) killed Arkady Vistok (STEAM_0:1:3479021) with player
+11/03[07:31]Moby Goobie (STEAM_0:0:7022536) killed Moby Goobie (STEAM_0:0:7022536) with player
+11/03[07:32]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[07:32]CiP6.45-CCA.15827 (STEAM_0:0:11534270) killed CiP6.45-CCA.15827 (STEAM_0:0:11534270) with player
+11/03[07:34]Olaf Hernandez (STEAM_0:0:5122703) killed Olaf Hernandez (STEAM_0:0:5122703) with player
+11/03[07:37]NUDEL KASADSADA (STEAM_0:0:7595697) killed NUDEL KASADSADA (STEAM_0:0:7595697) with player
+11/03[07:37]Stan Gray (STEAM_0:1:13115627) killed Stan Gray (STEAM_0:1:13115627) with player
+11/03[07:37]NUDEL KASADSADA (STEAM_0:0:7595697) killed NUDEL KASADSADA (STEAM_0:0:7595697) with player
+11/03[07:38]Stan Gray (STEAM_0:1:13115627) killed Stan Gray (STEAM_0:1:13115627) with player
+11/03[07:38]NUDEL KASADSADA (STEAM_0:0:7595697) killed NUDEL KASADSADA (STEAM_0:0:7595697) with player
+11/03[07:38]Julia Ramza (STEAM_0:0:7595697) killed Julia Ramza (STEAM_0:0:7595697) with player
+11/03[07:38]CiP6.45-CCA.15827 (STEAM_0:0:11534270) killed CiP6.45-CCA.15827 (STEAM_0:0:11534270) with player
+11/03[07:41]Olaf Hernandez (STEAM_0:0:5122703) killed CiP6.45-CCA.15827 (STEAM_0:0:11534270) with player
+11/03[07:49]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[07:50]Olaf Hernandez (STEAM_0:0:5122703) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[08:03]prop_physics killed Engerius Greel (STEAM_0:0:15657638) with prop_physics
+11/03[08:05]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[08:07]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[08:08]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[08:08]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[08:12]Olaf Hernandez (STEAM_0:0:5122703) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[08:13]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[08:14]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[08:14]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[08:16]Engerius Greel (STEAM_0:0:15657638) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[08:18]Engerius Greel (STEAM_0:0:15657638) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[08:19]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[08:20]Jeffrey clinton (STEAM_0:0:14750866) killed Jeffrey clinton (STEAM_0:0:14750866) with player
+11/03[08:23]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[08:23]Olaf Hernandez (STEAM_0:0:5122703) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[08:25]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed David Harrison (STEAM_0:1:7266231) with player
+11/03[08:26]George F. Adams (STEAM_0:0:12299695) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[08:27]Jody Vorup (STEAM_0:1:4241097) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[08:30]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[08:30]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[08:31]Jody Vorup (STEAM_0:1:4241097) killed David Harrison (STEAM_0:1:7266231) with player
+11/03[08:31]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[08:32]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[08:33]Will Weaking (STEAM_0:1:1543396) killed Will Weaking (STEAM_0:1:1543396) with player
+11/03[08:33]Will Weaking (STEAM_0:1:1543396) killed Will Weaking (STEAM_0:1:1543396) with player
+11/03[08:36]Olaf Hernandez (STEAM_0:0:5122703) killed Olaf Hernandez (STEAM_0:0:5122703) with player
+11/03[08:38]George F. Adams (STEAM_0:0:12299695) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[08:38]trigger_hurt killed Bob Akir (STEAM_0:0:6033181) with trigger_hurt
+11/03[08:38]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[08:39]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[08:41]Jody Vorup (STEAM_0:1:4241097) killed George F. Adams (STEAM_0:0:12299695) with player
+11/03[08:41]Jody Vorup (STEAM_0:1:4241097) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/03[08:44]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[08:44]Jody Vorup (STEAM_0:1:4241097) killed Bob Akir (STEAM_0:0:6033181) with player
+11/03[08:45]Jody Vorup (STEAM_0:1:4241097) killed David Harrison (STEAM_0:1:7266231) with player
+11/03[08:45]Jody Vorup (STEAM_0:1:4241097) killed Jody Vorup (STEAM_0:1:4241097) with player
+11/03[08:47]CiP6.45-CCA.12393 (STEAM_0:1:14843360) killed CiP6.45-CCA.12393 (STEAM_0:1:14843360) with player
+11/03[08:49]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[08:50]Gedo Gray (STEAM_0:0:5394489) killed Gedo Gray (STEAM_0:0:5394489) with player
+11/03[08:50]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[08:51]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[08:53]Stan Gray (STEAM_0:1:13115627) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[08:56]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/03[08:58]worldspawn killed Jessica Smith (STEAM_0:0:138745)
+11/03[08:59]worldspawn killed CiP6.45-CCA.12393 (STEAM_0:1:14843360)
+11/03[08:59]worldspawn killed Matthew Smith (STEAM_0:1:15251953)
+11/03[08:59]trigger_hurt killed Tom ' Kempy ' Kemp (STEAM_0:0:10659704) with trigger_hurt
+11/03[09:00]worldspawn killed Matthew Smith (STEAM_0:1:15251953)
+11/03[09:01]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed Central Kolowski (STEAM_0:0:5965584) with player
+11/03[09:06]George F. Adams (STEAM_0:0:12299695) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[09:06]Tobias Rieper (STEAM_0:0:12038069) killed Tobias Rieper (STEAM_0:0:12038069) with player
+11/03[09:09]George F. Adams (STEAM_0:0:12299695) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[09:11]worldspawn killed Pete Hawkins (STEAM_0:1:5315996)
+11/03[09:13]Stan Gray (STEAM_0:1:13115627) killed Paul Hawkins (STEAM_0:0:10175737) with player
+11/03[09:13]Brock Johnson (STEAM_0:1:12798648) killed Brock Johnson (STEAM_0:1:12798648) with player
+11/03[09:13]Brock Johnson (STEAM_0:1:12798648) killed Brock Johnson (STEAM_0:1:12798648) with player
+11/03[09:15]worldspawn killed Jack Knitter (STEAM_0:1:8903366)
+11/03[09:16]Jack Knitter (STEAM_0:1:8903366) killed Jack Knitter (STEAM_0:1:8903366) with player
+11/03[09:16]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[09:18]Tobias Rieper (STEAM_0:0:12038069) killed Tobias Rieper (STEAM_0:0:12038069) with player
+11/03[09:20]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed Bob Akir (STEAM_0:0:6033181) with player
+11/03[09:22]worldspawn killed Pete Hawkins (STEAM_0:1:5315996)
+11/03[09:22]Dwayne Johnson (STEAM_0:1:13360997) killed Dwayne Johnson (STEAM_0:1:13360997) with player
+11/03[09:22]Ethan Point (STEAM_0:1:5955725) killed Ethan Point (STEAM_0:1:5955725) with player
+11/03[09:23]worldspawn killed Jessica Smith (STEAM_0:0:138745)
+11/03[09:24]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed Brock Johnson (STEAM_0:1:12798648) with player
+11/03[09:25]Tom ' Kempy ' Kemp (STEAM_0:0:10659704) killed Tom ' Kempy ' Kemp (STEAM_0:0:10659704) with player
+11/03[09:25]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed David Harrison (STEAM_0:1:7266231) with player
+11/03[09:25]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed Dwayne Johnson (STEAM_0:1:13360997) with player
+11/03[09:25]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/03[09:25]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[09:25]Tom ' Kempy ' Kemp (STEAM_0:0:10659704) killed Tom ' Kempy ' Kemp (STEAM_0:0:10659704) with player
+11/03[09:25]worldspawn killed George F. Adams (STEAM_0:0:12299695)
+11/03[09:26]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[09:26]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[09:26]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[09:26]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[09:26]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[09:26]CiP6.45-CCA.12393 (STEAM_0:1:14843360) killed George F. Adams (STEAM_0:0:12299695) with player
+11/03[09:27]Brock Johnson (STEAM_0:1:12798648) killed Brock Johnson (STEAM_0:1:12798648) with player
+11/03[09:27]worldspawn killed Jessica Smith (STEAM_0:0:138745)
+11/03[09:28]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[09:28]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed David Harrison (STEAM_0:1:7266231) with player
+11/03[09:30]CiP6.45-CCA.12393 (STEAM_0:1:14843360) killed George Vince (STEAM_0:1:11085921) with player
+11/03[09:30]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[09:30]Tom ' Kempy ' Kemp (STEAM_0:0:10659704) killed Tom ' Kempy ' Kemp (STEAM_0:0:10659704) with player
+11/03[09:30]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[09:30]George Vince (STEAM_0:1:11085921) killed George Vince (STEAM_0:1:11085921) with player
+11/03[09:30]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[09:30]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[09:36]George Vince (STEAM_0:1:11085921) killed George Vince (STEAM_0:1:11085921) with player
+11/03[09:37]worldspawn killed CiP3.45-CCA.97761 (STEAM_0:1:13353956)
+11/03[09:37]Jodie Snow (STEAM_0:1:11085921) killed Jodie Snow (STEAM_0:1:11085921) with player
+11/03[09:37]Jodie Snow (STEAM_0:1:11085921) killed Jodie Snow (STEAM_0:1:11085921) with player
+11/03[09:37]Jodie Snow (STEAM_0:1:11085921) killed Jodie Snow (STEAM_0:1:11085921) with player
+11/03[09:37]Jodie Snow (STEAM_0:1:11085921) killed Jodie Snow (STEAM_0:1:11085921) with player
+11/03[09:37]Jodie Snow (STEAM_0:1:11085921) killed Jodie Snow (STEAM_0:1:11085921) with player
+11/03[09:37]Jodie Snow (STEAM_0:1:11085921) killed Jodie Snow (STEAM_0:1:11085921) with player
+11/03[09:38]Jodie Snow (STEAM_0:1:11085921) killed Jodie Snow (STEAM_0:1:11085921) with player
+11/03[09:38]Jodie Snow (STEAM_0:1:11085921) killed Jodie Snow (STEAM_0:1:11085921) with player
+11/03[09:38]Jodie Snow (STEAM_0:1:11085921) killed Jodie Snow (STEAM_0:1:11085921) with player
+11/03[09:38]Jessica Smith (STEAM_0:0:138745) killed Jessica Smith (STEAM_0:0:138745) with player
+11/03[09:38]Jodie Snow (STEAM_0:1:11085921) killed Jodie Snow (STEAM_0:1:11085921) with player
+11/03[09:39]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[09:40]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/03[09:43]Ethan Point (STEAM_0:1:5955725) killed Ethan Point (STEAM_0:1:5955725) with player
+11/03[09:44]CiP6.45-CCA.12393 (STEAM_0:1:14843360) killed Tobias Rieper (STEAM_0:0:12038069) with player
+11/03[09:45]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[09:45]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[09:47]Jody Vorup (STEAM_0:1:4241097) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[09:47]CiP3.45-CCA.13104 (STEAM_0:1:15015080) killed CiP3.45-CCA.13104 (STEAM_0:1:15015080) with player
+11/03[09:47]Gedo Gray (STEAM_0:0:5394489) killed Gedo Gray (STEAM_0:0:5394489) with player
+11/03[09:47]Gedo Gray (STEAM_0:0:5394489) killed Gedo Gray (STEAM_0:0:5394489) with player
+11/03[09:48]Gedo Gray (STEAM_0:0:5394489) killed Gedo Gray (STEAM_0:0:5394489) with player
+11/03[09:48]Gedo Gray (STEAM_0:0:5394489) killed Gedo Gray (STEAM_0:0:5394489) with player
+11/03[09:48]trigger_hurt killed Gedo Gray (STEAM_0:0:5394489) with trigger_hurt
+11/03[09:48]Gedo Gray (STEAM_0:0:5394489) killed Gedo Gray (STEAM_0:0:5394489) with player
+11/03[09:48]Gedo Gray (STEAM_0:0:5394489) killed Gedo Gray (STEAM_0:0:5394489) with player
+11/03[09:48]Gedo Gray (STEAM_0:0:5394489) killed Gedo Gray (STEAM_0:0:5394489) with player
+11/03[09:48]Gedo Gray (STEAM_0:0:5394489) killed Gedo Gray (STEAM_0:0:5394489) with player
+11/03[09:48]Gedo Gray (STEAM_0:0:5394489) killed Gedo Gray (STEAM_0:0:5394489) with player
+11/03[09:49]Herb Vargo (STEAM_0:1:15015080) killed Herb Vargo (STEAM_0:1:15015080) with player
+11/03[09:50]Jack Knitter (STEAM_0:1:8903366) killed Jack Knitter (STEAM_0:1:8903366) with player
+11/03[09:51]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed Dan Vance (STEAM_0:1:16172881) with player
+11/03[09:52]Tobias Rieper (STEAM_0:0:12038069) killed Tobias Rieper (STEAM_0:0:12038069) with player
+11/03[09:52]Jody Vorup (STEAM_0:1:4241097) killed George F. Adams (STEAM_0:0:12299695) with player
+11/03[09:53]CEU3.45-CCA.13104 (STEAM_0:1:15015080) killed CEU3.45-CCA.13104 (STEAM_0:1:15015080) with player
+11/03[09:55]Jody Vorup (STEAM_0:1:4241097) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[09:56]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[09:57]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[10:00]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[10:00]Charles J. Parlon (STEAM_0:0:3978744) killed Charles J. Parlon (STEAM_0:0:3978744) with player
+11/03[10:00]Charles J. Parlon (STEAM_0:0:3978744) killed Charles J. Parlon (STEAM_0:0:3978744) with player
+11/03[10:00]Jodie Snow (STEAM_0:1:11085921) killed Jodie Snow (STEAM_0:1:11085921) with player
+11/03[10:00]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[10:01]CEU3.45-CCA.13104 (STEAM_0:1:15015080) killed CEU3.45-CCA.13104 (STEAM_0:1:15015080) with player
+11/03[10:02]OW.HEL-TRI.13104 (STEAM_0:1:15015080) killed OW.HEL-TRI.13104 (STEAM_0:1:15015080) with player
+11/03[10:02]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[10:03]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[10:05]CEU3.45-CCA.13104 (STEAM_0:1:15015080) killed CEU3.45-CCA.13104 (STEAM_0:1:15015080) with player
+11/03[10:06]Charles J. Parlon (STEAM_0:0:3978744) killed Charles J. Parlon (STEAM_0:0:3978744) with player
+11/03[10:07]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[10:07]Herb Vargo (STEAM_0:1:15015080) killed Herb Vargo (STEAM_0:1:15015080) with player
+11/03[10:07]Herb Vargo (STEAM_0:1:15015080) killed Herb Vargo (STEAM_0:1:15015080) with player
+11/03[10:08]Lupe Prowler (STEAM_0:1:11646467) killed Lupe Prowler (STEAM_0:1:11646467) with player
+11/03[10:09]Jill Shaal (STEAM_0:0:6967315) killed Jill Shaal (STEAM_0:0:6967315) with player
+11/03[10:09]Jill Shaal (STEAM_0:0:6967315) killed Jill Shaal (STEAM_0:0:6967315) with player
+11/03[10:09]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[10:10]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[10:10]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/03[10:10]Afrei Kasaki (STEAM_0:1:10374806) killed Afrei Kasaki (STEAM_0:1:10374806) with player
+11/03[10:11]prop_physics killed Engerius Greel (STEAM_0:0:15657638) with prop_physics
+11/03[10:12]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-COL.C86725 (STEAM_0:1:10374806) with player
+11/03[10:13]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[10:15]CEU3.45-CCA.13104 (STEAM_0:1:15015080) killed CEU3.45-CCA.13104 (STEAM_0:1:15015080) with player
+11/03[10:15]CEU3.45-CCA.13104 (STEAM_0:1:15015080) killed CEU3.45-CCA.13104 (STEAM_0:1:15015080) with player
+11/03[10:16]OW.HEL-CPT.C10198 (STEAM_0:1:11085921) killed OW.HEL-CPT.C10198 (STEAM_0:1:11085921) with player
+11/03[10:16]OW.HEL-TRI.13104 (STEAM_0:1:15015080) killed OW.HEL-TRI.13104 (STEAM_0:1:15015080) with player
+11/03[10:17]OW.HEL-CPT.C10198 (STEAM_0:1:11085921) killed OW.HEL-CPT.C10198 (STEAM_0:1:11085921) with player
+11/03[10:17]OW.HEL-CPT.C10198 (STEAM_0:1:11085921) killed OW.HEL-CPT.C10198 (STEAM_0:1:11085921) with player
+11/03[10:17]OW.HEL-CPT.C10198 (STEAM_0:1:11085921) killed OW.HEL-CPT.C10198 (STEAM_0:1:11085921) with player
+11/03[10:17]OW.HEL-CPT.C10198 (STEAM_0:1:11085921) killed OW.HEL-CPT.C10198 (STEAM_0:1:11085921) with player
+11/03[10:21]Seval Norton (STEAM_0:1:14053442) killed Seval Norton (STEAM_0:1:14053442) with player
+11/03[10:22]OW.HEL-CPT.C10198 (STEAM_0:1:11085921) killed OW.HEL-CPT.C10198 (STEAM_0:1:11085921) with player
+11/03[10:23]Andrew Abaddon (STEAM_0:1:4005816) killed Andrew Abaddon (STEAM_0:1:4005816) with player
+11/03[10:23]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed Central Kolowski (STEAM_0:0:5965584) with player
+11/03[10:24]OW.HEL-TRI.70562 (STEAM_0:0:5811397) killed OW.HEL-TRI.70562 (STEAM_0:0:5811397) with player
+11/03[10:27]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/03[10:28]Axel House (STEAM_0:1:14226281) killed Axel House (STEAM_0:1:14226281) with player
+11/03[10:30]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[10:32]Phelps Edrond (STEAM_0:0:5965584) killed Phelps Edrond (STEAM_0:0:5965584) with player
+11/03[10:36]worldspawn killed George F. Adams (STEAM_0:0:12299695)
+11/03[10:37]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-COL.C86725 (STEAM_0:1:10374806) with player
+11/03[10:37]OW.HEL-TRI.70562 (STEAM_0:0:5811397) killed Phelps Edrond (STEAM_0:0:5965584) with player
+11/03[10:38]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[10:39]Charles J. Parlon (STEAM_0:0:3978744) killed Charles J. Parlon (STEAM_0:0:3978744) with player
+11/03[10:40]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[10:42]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed George F. Adams (STEAM_0:0:12299695) with player
+11/03[10:43]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed Axel House (STEAM_0:1:14226281) with player
+11/03[10:47]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/03[10:47]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-COL.C86725 (STEAM_0:1:10374806) with player
+11/03[10:47]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[10:48]worldspawn killed Engerius Greel (STEAM_0:0:15657638)
+11/03[10:49]Axel House (STEAM_0:1:14226281) killed Axel House (STEAM_0:1:14226281) with player
+11/03[10:49]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/03[10:50]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[10:50]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-COL.C86725 (STEAM_0:1:10374806) with player
+11/03[10:50]Billy Bonzuus (STEAM_0:0:13631579) killed Billy Bonzuus (STEAM_0:0:13631579) with player
+11/03[10:50]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[10:51]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-COL.C86725 (STEAM_0:1:10374806) with player
+11/03[10:51]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-COL.C86725 (STEAM_0:1:10374806) with player
+11/03[10:52]OW.HEL-TRI.13104 (STEAM_0:1:15015080) killed OW.HEL-TRI.13104 (STEAM_0:1:15015080) with player
+11/03[10:52]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[10:54]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[10:55]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[10:55]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[10:58]trigger_hurt killed Axel House (STEAM_0:1:14226281) with trigger_hurt
+11/03[11:00]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[11:00]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[11:00]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[11:00]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[11:00]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[11:00]Axel House (STEAM_0:1:14226281) killed Axel House (STEAM_0:1:14226281) with player
+11/03[11:01]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed David Harrison (STEAM_0:1:7266231) with player
+11/03[11:05]Catherine Maro (STEAM_0:0:12299695) killed Catherine Maro (STEAM_0:0:12299695) with player
+11/03[11:05]Catherine Maro (STEAM_0:0:12299695) killed Catherine Maro (STEAM_0:0:12299695) with player
+11/03[11:06]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed Jimmy Popper (STEAM_0:0:14804522) with player
+11/03[11:09]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/03[11:09]Chloe Jerthulis (STEAM_0:1:12381722) killed Chloe Jerthulis (STEAM_0:1:12381722) with player
+11/03[11:10]Jimmy Popper (STEAM_0:0:14804522) killed Jimmy Popper (STEAM_0:0:14804522) with player
+11/03[11:11]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-COL.C86725 (STEAM_0:1:10374806) with player
+11/03[11:12]Phint Fenston (STEAM_0:0:9241267) killed Phint Fenston (STEAM_0:0:9241267) with player
+11/03[11:15]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed Jimmy Popper (STEAM_0:0:14804522) with player
+11/03[11:16]Greg Green (STEAM_0:0:9436675) killed Greg Green (STEAM_0:0:9436675) with player
+11/03[11:19]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed Greg Green (STEAM_0:0:9436675) with player
+11/03[11:20]Phint Fenston (STEAM_0:0:9241267) killed Phint Fenston (STEAM_0:0:9241267) with player
+11/03[11:20]Joe Brown (STEAM_0:1:15824871) killed Joe Brown (STEAM_0:1:15824871) with player
+11/03[11:25]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[11:26]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[11:27]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[11:27]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[11:27]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed Greg Green (STEAM_0:0:9436675) with player
+11/03[11:28]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[11:30]Catherine Maro (STEAM_0:0:12299695) killed Catherine Maro (STEAM_0:0:12299695) with player
+11/03[11:31]worldspawn killed Alexander Dolohov (STEAM_0:1:14536052)
+11/03[11:31]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CCA-N.45.Stalker.048 (STEAM_0:0:12854354) with player
+11/03[11:32]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed CCA-N.45.Stalker.048 (STEAM_0:0:12854354) with player
+11/03[11:35]CEU3.45-CCA.13104 (STEAM_0:1:15015080) killed CEU3.45-CCA.13104 (STEAM_0:1:15015080) with player
+11/03[11:37]worldspawn killed Isaac Irving (STEAM_0:1:6464897)
+11/03[11:37]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-COL.C86725 (STEAM_0:1:10374806) with player
+11/03[11:37]Afrei Kasaki (STEAM_0:1:10374806) killed Afrei Kasaki (STEAM_0:1:10374806) with player
+11/03[11:38]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[11:39]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[11:41]Jimmy Popper (STEAM_0:0:14804522) killed Jimmy Popper (STEAM_0:0:14804522) with player
+11/03[11:44]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Jack Smith (STEAM_0:0:14123323) with player
+11/03[11:44]Roger Hall (STEAM_0:0:10172244) killed Roger Hall (STEAM_0:0:10172244) with player
+11/03[11:45]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Jack Smith (STEAM_0:0:14123323) with player
+11/03[11:46]Jimmy Popper (STEAM_0:0:14804522) killed Jimmy Popper (STEAM_0:0:14804522) with player
+11/03[11:46]CEU3.45-CCA.13104 (STEAM_0:1:15015080) killed CEU3.45-CCA.13104 (STEAM_0:1:15015080) with player
+11/03[11:47]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/03[11:47]Jack Waters (STEAM_0:0:10172244) killed Jack Waters (STEAM_0:0:10172244) with player
+11/03[11:47]Rachel Gatess (STEAM_0:1:5134642) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/03[11:47]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[11:47]Logan Carter (STEAM_0:1:10420579) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[11:48]Jack Smith (STEAM_0:0:14123323) killed Jack Smith (STEAM_0:0:14123323) with player
+11/03[11:48]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[11:48]Jason Xavier (STEAM_0:0:5175965) killed Jason Xavier (STEAM_0:0:5175965) with player
+11/03[11:49]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[11:49]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[11:49]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[11:49]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[11:49]Jack Smith (STEAM_0:0:14123323) killed Jack Smith (STEAM_0:0:14123323) with player
+11/03[11:49]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[11:49]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[11:49]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[11:49]Rachel Gatess (STEAM_0:1:5134642) killed Rachel Gatess (STEAM_0:1:5134642) with player
+11/03[11:49]Rachel Gatess (STEAM_0:1:5134642) killed Rachel Gatess (STEAM_0:1:5134642) with player
+11/03[11:50]Afrei Kasaki (STEAM_0:1:10374806) killed Afrei Kasaki (STEAM_0:1:10374806) with player
+11/03[11:51]Rachel Gatess (STEAM_0:1:5134642) killed Rachel Gatess (STEAM_0:1:5134642) with player
+11/03[11:51]prop_physics killed Jack Waters (STEAM_0:0:10172244) with prop_physics
+11/03[11:53]Greg Green (STEAM_0:0:9436675) killed Greg Green (STEAM_0:0:9436675) with player
+11/03[11:53]Jack Smith (STEAM_0:0:14123323) killed Jack Smith (STEAM_0:0:14123323) with player
+11/03[11:54]Jack Smith (STEAM_0:0:14123323) killed Jack Smith (STEAM_0:0:14123323) with player
+11/03[11:54]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[11:55]CCA-N.45.Stalker.047 (STEAM_0:0:12854354) killed CCA-N.45.Stalker.047 (STEAM_0:0:12854354) with player
+11/03[11:55]Jason Xavier (STEAM_0:0:5175965) killed Jason Xavier (STEAM_0:0:5175965) with player
+11/03[11:56]trigger_hurt killed Houston Hamilton (STEAM_0:1:16519150) with trigger_hurt
+11/03[11:56]Jack Smith (STEAM_0:0:14123323) killed Jack Smith (STEAM_0:0:14123323) with player
+11/03[11:56]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[11:57]Logan Carter (STEAM_0:1:10420579) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[11:57]Jack Waters (STEAM_0:0:10172244) killed Jack Waters (STEAM_0:0:10172244) with player
+11/03[11:59]worldspawn killed Greg Green (STEAM_0:0:9436675)
+11/03[11:59]prop_physics killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with prop_physics
+11/03[12:00]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[12:00]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Joe Brown (STEAM_0:1:15824871) with player
+11/03[12:01]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/03[12:03]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[12:04]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[12:05]Rachel Gatess (STEAM_0:1:5134642) killed Rachel Gatess (STEAM_0:1:5134642) with player
+11/03[12:05]CCA-N.45.Stalker.047 (STEAM_0:0:12854354) killed CCA-N.45.Stalker.047 (STEAM_0:0:12854354) with player
+11/03[12:06]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[12:06]Jody Vorup (STEAM_0:1:4241097) killed Vivi Orunitia (STEAM_0:1:11676925) with player
+11/03[12:07]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Jody Vorup (STEAM_0:1:4241097) with player
+11/03[12:08]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Jimmy Popper (STEAM_0:0:14804522) with player
+11/03[12:09]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Jack Smith (STEAM_0:0:14123323) with player
+11/03[12:11]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Jack Waters (STEAM_0:0:10172244) with player
+11/03[12:11]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:13]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[12:13]Vivi Orunitia (STEAM_0:1:11676925) killed Vivi Orunitia (STEAM_0:1:11676925) with player
+11/03[12:13]Logan Carter (STEAM_0:1:10420579) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:16]William Dearborn (STEAM_0:0:7049970) killed William Dearborn (STEAM_0:0:7049970) with player
+11/03[12:16]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[12:16]William Dearborn (STEAM_0:0:7049970) killed William Dearborn (STEAM_0:0:7049970) with player
+11/03[12:18]worldspawn killed Vivi Orunitia (STEAM_0:1:11676925)
+11/03[12:19]worldspawn killed Jack Waters (STEAM_0:0:10172244)
+11/03[12:20]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:20]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Jack Waters (STEAM_0:0:10172244) with player
+11/03[12:20]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Jason Xavier (STEAM_0:0:5175965) with player
+11/03[12:21]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:23]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed CiP3.45-CCA.11156 (STEAM_0:0:13631579) with player
+11/03[12:25]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[12:26]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:26]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[12:27]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[12:28]John ' Smashing ' Titticaca (STEAM_0:0:4436740) killed John ' Smashing ' Titticaca (STEAM_0:0:4436740) with player
+11/03[12:30]Greg Green (STEAM_0:0:9436675) killed Greg Green (STEAM_0:0:9436675) with player
+11/03[12:30]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:30]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed John ' Smashing ' Titticaca (STEAM_0:0:4436740) with player
+11/03[12:30]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Jason Xavier (STEAM_0:0:5175965) with player
+11/03[12:31]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed CiP2.45-CCA.23641 (STEAM_0:0:11605597) with player
+11/03[12:32]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:33]worldspawn killed John ' Smashing ' Titticaca (STEAM_0:0:4436740)
+11/03[12:33]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:33]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed Jason Xavier (STEAM_0:0:5175965) with player
+11/03[12:35]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[12:35]Greg Holden (STEAM_0:0:9436675) killed Greg Holden (STEAM_0:0:9436675) with player
+11/03[12:38]Greg Holden (STEAM_0:0:9436675) killed Greg Holden (STEAM_0:0:9436675) with player
+11/03[12:38]Tony Gray (STEAM_0:0:15640365) killed Tony Gray (STEAM_0:0:15640365) with player
+11/03[12:38]Logan Carter (STEAM_0:1:10420579) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:39]Olaf Hernandez (STEAM_0:0:5122703) killed Olaf Hernandez (STEAM_0:0:5122703) with player
+11/03[12:39]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[12:39]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed Jason Xavier (STEAM_0:0:5175965) with player
+11/03[12:39]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed CiP3.45-CCA.11156 (STEAM_0:0:13631579) with player
+11/03[12:40]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[12:40]Logan Carter (STEAM_0:1:10420579) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:40]Greg Holden (STEAM_0:0:9436675) killed Greg Holden (STEAM_0:0:9436675) with player
+11/03[12:41]George Vince (STEAM_0:1:11085921) killed George Vince (STEAM_0:1:11085921) with player
+11/03[12:42]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Jason Xavier (STEAM_0:0:5175965) with player
+11/03[12:42]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed Jason Xavier (STEAM_0:0:5175965) with player
+11/03[12:42]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Greg Holden (STEAM_0:0:9436675) with player
+11/03[12:43]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:43]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed David Harrison (STEAM_0:1:7266231) with player
+11/03[12:43]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[12:44]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed CCA-N.45.Stalker.047 (STEAM_0:0:12854354) with player
+11/03[12:44]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:44]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Greg Holden (STEAM_0:0:9436675) with player
+11/03[12:44]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed CiP2.45-CCA.23641 (STEAM_0:0:11605597) with player
+11/03[12:44]Jill Shaal (STEAM_0:0:6967315) killed Jill Shaal (STEAM_0:0:6967315) with player
+11/03[12:44]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed CCA-N.45.Stalker.047 (STEAM_0:0:12854354) with player
+11/03[12:45]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed Greg Holden (STEAM_0:0:9436675) with player
+11/03[12:45]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:45]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed CCA-N.45.Stalker.047 (STEAM_0:0:12854354) with player
+11/03[12:45]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Jill Shaal (STEAM_0:0:6967315) with player
+11/03[12:46]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[12:48]Greg Holden (STEAM_0:0:9436675) killed Greg Holden (STEAM_0:0:9436675) with player
+11/03[12:48]Logan Carter (STEAM_0:1:10420579) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:48]Logan Carter (STEAM_0:1:10420579) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[12:50]worldspawn killed Greg Holden (STEAM_0:0:9436675)
+11/03[12:50]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Nikolai Kowalsky (STEAM_0:0:12299695) with player
+11/03[12:50]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/03[12:50]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed CCA-N.45.Stalker.047 (STEAM_0:0:12854354) with player
+11/03[12:51]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[12:53]OW.HEL-CPT.C10198 (STEAM_0:1:11085921) killed OW.HEL-CPT.C10198 (STEAM_0:1:11085921) with player
+11/03[12:55]OW.HEL-CPT.C10198 (STEAM_0:1:11085921) killed OW.HEL-CPT.C10198 (STEAM_0:1:11085921) with player
+11/03[12:55]OW.HEL-CPT.C10198 (STEAM_0:1:11085921) killed OW.HEL-CPT.C10198 (STEAM_0:1:11085921) with player
+11/03[12:56]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed CCA-N.45.Stalker.047 (STEAM_0:0:12854354) with player
+11/03[12:56]OW.HEL-CPT.C10198 (STEAM_0:1:11085921) killed OW.HEL-CPT.C10198 (STEAM_0:1:11085921) with player
+11/03[12:57]CEU3.45-CCA.19032 (STEAM_0:1:6094935) killed CEU3.45-CCA.19032 (STEAM_0:1:6094935) with player
+11/03[12:58]Simon ' Wright ' Frost (STEAM_0:0:12854354) killed Simon ' Wright ' Frost (STEAM_0:0:12854354) with player
+11/03[12:59]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[12:59]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/03[12:59]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[12:59]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/03[13:02]George Vince (STEAM_0:1:11085921) killed George Vince (STEAM_0:1:11085921) with player
+11/03[13:05]prop_physics killed Mike Bauer (STEAM_0:1:12273216) with prop_physics
+11/03[13:05]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/03[13:08]Simon ' Wright ' Frost (STEAM_0:0:12854354) killed Simon ' Wright ' Frost (STEAM_0:0:12854354) with player
+11/03[13:14]worldspawn killed Grit Anders (STEAM_0:0:5122703)
+11/03[13:17]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed Logan Carter (STEAM_0:1:10420579) with player
+11/03[13:18]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed CiP2.45-CCA.23641 (STEAM_0:0:11605597) with player
+11/03[13:20]CiP4.45-CCA.15672 (STEAM_0:0:8975160) killed CiP4.45-CCA.15672 (STEAM_0:0:8975160) with player
+11/03[13:21]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[13:23]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/03[13:25]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[13:28]Tom Johnson (STEAM_0:0:8766305) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/03[13:31]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[13:31]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[13:34]Mark Johnston (STEAM_0:1:5631575) killed Mark Johnston (STEAM_0:1:5631575) with player
+11/03[13:35]Mark Johnston (STEAM_0:1:5631575) killed Mark Johnston (STEAM_0:1:5631575) with player
+11/03[13:38]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[13:40]Jody Vorup (STEAM_0:1:4241097) killed CiP2.45-CCA.23641 (STEAM_0:0:11605597) with player
+11/03[13:41]Stan Gray (STEAM_0:1:13115627) killed CiP4.45-CCA.15672 (STEAM_0:0:8975160) with player
+11/03[13:42]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed Simon ' Wright ' Frost (STEAM_0:0:12854354) with player
+11/03[13:42]Jody Vorup (STEAM_0:1:4241097) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[13:43]Jason Xavier (STEAM_0:0:5175965) killed Jason Xavier (STEAM_0:0:5175965) with player
+11/03[13:44]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed Jake C. Mofleno (STEAM_0:1:13195368) with player
+11/03[13:45]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[13:45]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed Dave Hinrichs (STEAM_0:0:12495068) with player
+11/03[13:46]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[13:46]Jason Xavier (STEAM_0:0:5175965) killed Jason Xavier (STEAM_0:0:5175965) with player
+11/03[13:47]env_fire killed Jody Vorup (STEAM_0:1:4241097) with env_fire
+11/03[13:50]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[13:55]Seval Norton (STEAM_0:1:14053442) killed Jimmy Popper (STEAM_0:0:14804522) with player
+11/03[14:00]CiP4.45-CCA.15672 (STEAM_0:0:8975160) killed CiP4.45-CCA.15672 (STEAM_0:0:8975160) with player
+11/03[14:00]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[14:01]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[14:01]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[14:01]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[14:02]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[14:04]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[14:05]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/03[14:06]Steven ' Streaky ' Haddock (STEAM_0:0:11027413) killed Steven ' Streaky ' Haddock (STEAM_0:0:11027413) with player
+11/03[14:13]Tom Johnson (STEAM_0:0:8766305) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/03[14:13]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[14:14]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[14:18]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Mark Johnston (STEAM_0:1:5631575) with player
+11/03[14:18]Phisan Suklin (STEAM_0:0:6737054) killed Simon ' Wright ' Frost (STEAM_0:0:12854354) with player
+11/03[14:19]Jack Knitter (STEAM_0:1:8903366) killed Jack Knitter (STEAM_0:1:8903366) with player
+11/03[14:19]Ethan Point (STEAM_0:1:5955725) killed Ethan Point (STEAM_0:1:5955725) with player
+11/03[14:20]Emma Attwood (STEAM_0:0:13247579) killed Emma Attwood (STEAM_0:0:13247579) with player
+11/03[14:23]Richard Fox (STEAM_0:0:13247579) killed Richard Fox (STEAM_0:0:13247579) with player
+11/03[14:23]Richard Fox (STEAM_0:0:13247579) killed Richard Fox (STEAM_0:0:13247579) with player
+11/03[14:24]CiP3.45-CCA.16327 (STEAM_0:0:13247579) killed CiP3.45-CCA.16327 (STEAM_0:0:13247579) with player
+11/03[14:25]CiP3.45-CCA.16327 (STEAM_0:0:13247579) killed CiP3.45-CCA.16327 (STEAM_0:0:13247579) with player
+11/03[14:25]Emma Attwood (STEAM_0:0:13247579) killed Emma Attwood (STEAM_0:0:13247579) with player
+11/03[14:26]OW.HEL-COL.T30222 (STEAM_0:1:6611647) killed OW.HEL-COL.T30222 (STEAM_0:1:6611647) with player
+11/03[14:28]Klara Severin (STEAM_0:1:12591206) killed Klara Severin (STEAM_0:1:12591206) with player
+11/03[14:28]Klara Severin (STEAM_0:1:12591206) killed Klara Severin (STEAM_0:1:12591206) with player
+11/03[14:30]Rick Darkaliono (STEAM_0:1:4976333) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/03[14:30]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[14:31]Mark Johnston (STEAM_0:1:5631575) killed Mark Johnston (STEAM_0:1:5631575) with player
+11/03[14:31]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[14:31]CiP4.45-CCA.15672 (STEAM_0:0:8975160) killed CiP4.45-CCA.15672 (STEAM_0:0:8975160) with player
+11/03[14:31]Klara Severin (STEAM_0:1:12591206) killed Klara Severin (STEAM_0:1:12591206) with player
+11/03[14:32]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[14:33]worldspawn killed Ryan Scott (STEAM_0:1:10420579)
+11/03[14:33]Rick Darkaliono (STEAM_0:1:4976333) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[14:36]Raiden Marshall (STEAM_0:1:6619152) killed Raiden Marshall (STEAM_0:1:6619152) with player
+11/03[14:36]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[14:36]OW.HEL-COL.T30222 (STEAM_0:1:6611647) killed OW.HEL-COL.T30222 (STEAM_0:1:6611647) with player
+11/03[14:36]Tom Anderson (STEAM_0:1:6611647) killed Tom Anderson (STEAM_0:1:6611647) with player
+11/03[14:37]Mark Johnston (STEAM_0:1:5631575) killed Mark Johnston (STEAM_0:1:5631575) with player
+11/03[14:37]Ethan Point (STEAM_0:1:5955725) killed Ethan Point (STEAM_0:1:5955725) with player
+11/03[14:38]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[14:40]prop_physics killed Ryan Scott (STEAM_0:1:10420579) with prop_physics
+11/03[14:46]Klara Severin (STEAM_0:1:12591206) killed Klara Severin (STEAM_0:1:12591206) with player
+11/03[14:46]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[14:47]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[14:47]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[14:47]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[14:47]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[14:48]prop_physics killed Charles Parker (STEAM_0:1:6068003) with prop_physics
+11/03[14:53]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/03[14:55]CiP.45-CCA.Temp-189 (STEAM_0:0:4436740) killed CiP.45-CCA.Temp-189 (STEAM_0:0:4436740) with player
+11/03[14:56]prop_physics killed Billy Bonzuus (STEAM_0:0:13631579) with prop_physics
+11/03[14:58]Olevi Durskin (STEAM_0:1:8517833) killed Olevi Durskin (STEAM_0:1:8517833) with player
+11/03[15:01]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[15:03]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed CiP3.45-CCA.11156 (STEAM_0:0:13631579) with player
+11/03[15:04]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[15:06]Tom Anderson (STEAM_0:1:6611647) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[15:06]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[15:07]Bennet Dyson (STEAM_0:1:5558212) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[15:07]Bennet Dyson (STEAM_0:1:5558212) killed Emma Attwood (STEAM_0:0:13247579) with player
+11/03[15:09]Bennet Dyson (STEAM_0:1:5558212) killed Rick Darkaliono (STEAM_0:1:4976333) with player
+11/03[15:13]John Vanhood (STEAM_0:0:8939877) killed John Vanhood (STEAM_0:0:8939877) with player
+11/03[15:14]Bennet Dyson (STEAM_0:1:5558212) killed Rick Darkaliono (STEAM_0:1:4976333) with player
+11/03[15:17]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed CiP3.45-CCA.11156 (STEAM_0:0:13631579) with player
+11/03[15:17]Mark Steel (STEAM_0:1:13876482) killed Mark Steel (STEAM_0:1:13876482) with player
+11/03[15:18]CiP4.45-CCA.45401 (STEAM_0:0:9087358) killed CiP4.45-CCA.45401 (STEAM_0:0:9087358) with player
+11/03[15:18]Jimmy Popper (STEAM_0:0:14804522) killed Jimmy Popper (STEAM_0:0:14804522) with player
+11/03[15:20]Tom Johnson (STEAM_0:0:8766305) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/03[15:20]CiP.45-CCA.Temp-175 (STEAM_0:0:16096090) killed CiP.45-CCA.Temp-175 (STEAM_0:0:16096090) with player
+11/03[15:21]Tom Anderson (STEAM_0:1:6611647) killed John Vanhood (STEAM_0:0:8939877) with player
+11/03[15:21]Mark Steel (STEAM_0:1:13876482) killed Mark Steel (STEAM_0:1:13876482) with player
+11/03[15:22]prop_physics killed Adam Markov (STEAM_0:1:2588123) with prop_physics
+11/03[15:22]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:22]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:22]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:22]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:22]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:22]Tom Anderson (STEAM_0:1:6611647) killed Tom Anderson (STEAM_0:1:6611647) with player
+11/03[15:22]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:25]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed CiP2.45-CCA.23641 (STEAM_0:0:11605597) with player
+11/03[15:25]worldspawn killed Charles Parker (STEAM_0:1:6068003)
+11/03[15:27]Rick Darkaliono (STEAM_0:1:4976333) killed Bennet Dyson (STEAM_0:1:5558212) with player
+11/03[15:27]prop_physics killed Olevi Durskin (STEAM_0:1:8517833) with prop_physics
+11/03[15:27]Rick Darkaliono (STEAM_0:1:4976333) killed Bennet Dyson (STEAM_0:1:5558212) with player
+11/03[15:28]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[15:30]Bennet Dyson (STEAM_0:1:5558212) killed Bennet Dyson (STEAM_0:1:5558212) with player
+11/03[15:31]John Vanhood (STEAM_0:0:8939877) killed John Vanhood (STEAM_0:0:8939877) with player
+11/03[15:31]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:32]prop_physics killed Steven ' Streaky ' Haddock (STEAM_0:0:11027413) with prop_physics
+11/03[15:33]CEU1.45-CCA.30222 (STEAM_0:1:6611647) killed CEU1.45-CCA.30222 (STEAM_0:1:6611647) with player
+11/03[15:33]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:33]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:33]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:34]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:34]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:34]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:34]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:34]Rick Vitelli (STEAM_0:1:7993035) killed Rick Vitelli (STEAM_0:1:7993035) with player
+11/03[15:34]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[15:35]Ethan Point (STEAM_0:1:5955725) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/03[15:35]prop_physics killed Bennet Dyson (STEAM_0:1:5558212) with prop_physics
+11/03[15:35]Ethan Point (STEAM_0:1:5955725) killed Ethan Point (STEAM_0:1:5955725) with player
+11/03[15:35]prop_physics killed John Vanhood (STEAM_0:0:8939877) with prop_physics
+11/03[15:35]prop_physics killed John Vanhood (STEAM_0:0:8939877) with prop_physics
+11/03[15:35]prop_physics killed Bennet Dyson (STEAM_0:1:5558212) with prop_physics
+11/03[15:35]worldspawn killed John Vanhood (STEAM_0:0:8939877)
+11/03[15:36]worldspawn killed Arkady Vistok (STEAM_0:1:3479021)
+11/03[15:36]worldspawn killed Rick Vitelli (STEAM_0:1:7993035)
+11/03[15:36]prop_physics killed Rick Darkaliono (STEAM_0:1:4976333) with prop_physics
+11/03[15:37]worldspawn killed Rick Darkaliono (STEAM_0:1:4976333)
+11/03[15:37]prop_physics killed Adam Markov (STEAM_0:1:2588123) with prop_physics
+11/03[15:38]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:38]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:38]prop_physics killed John Vanhood (STEAM_0:0:8939877) with prop_physics
+11/03[15:38]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/03[15:42]CiP4.45-CCA.45401 (STEAM_0:0:9087358) killed CiP4.45-CCA.45401 (STEAM_0:0:9087358) with player
+11/03[15:42]Emma Attwood (STEAM_0:0:13247579) killed Emma Attwood (STEAM_0:0:13247579) with player
+11/03[15:43]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[15:50]Jimmy Popper (STEAM_0:0:14804522) killed Jimmy Popper (STEAM_0:0:14804522) with player
+11/03[15:51]Kenton Henderson (STEAM_0:1:3880) killed Kenton Henderson (STEAM_0:1:3880) with player
+11/03[15:55]Brandon Wihit (STEAM_0:1:10273270) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/03[15:56]worldspawn killed Jason Xavier (STEAM_0:0:5175965)
+11/03[15:58]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[15:58]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[15:58]timmey (STEAM_0:0:15015630) killed timmey (STEAM_0:0:15015630) with player
+11/03[15:58]prop_physics killed Jack Harris (STEAM_0:0:361504) with prop_physics
+11/03[16:04]Kenton Henderson (STEAM_0:1:3880) killed Kenton Henderson (STEAM_0:1:3880) with player
+11/03[16:06]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:07]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:07]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:07]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[16:07]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:08]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:08]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:09]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:09]SqL.45-CCA.86725 (STEAM_0:1:10374806) killed SqL.45-CCA.86725 (STEAM_0:1:10374806) with player
+11/03[16:09]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:10]Jason Xavier (STEAM_0:0:5175965) killed Jason Xavier (STEAM_0:0:5175965) with player
+11/03[16:11]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[16:11]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-COL.C86725 (STEAM_0:1:10374806) with player
+11/03[16:11]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[16:12]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[16:12]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed CiP3.45-CCA.11156 (STEAM_0:0:13631579) with player
+11/03[16:12]CCA-N.45.Stalker.049 (STEAM_0:1:10030189) killed CCA-N.45.Stalker.049 (STEAM_0:1:10030189) with player
+11/03[16:13]Mark Smith (STEAM_0:1:13876482) killed Mark Smith (STEAM_0:1:13876482) with player
+11/03[16:15]prop_physics killed Jack Harris (STEAM_0:0:361504) with prop_physics
+11/03[16:17]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[16:17]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[16:20]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed Jessica Smith (STEAM_0:0:138745) with player
+11/03[16:21]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed Dan Vance (STEAM_0:1:16172881) with player
+11/03[16:21]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[16:22]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:24]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:26]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:26]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:26]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:27]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:27]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:28]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:28]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:29]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:30]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed Jessica Smith (STEAM_0:0:138745) with player
+11/03[16:30]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[16:30]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed Jason Xavier (STEAM_0:0:5175965) with player
+11/03[16:31]CCA-N.45.Stalker.049 (STEAM_0:1:10030189) killed CCA-N.45.Stalker.049 (STEAM_0:1:10030189) with player
+11/03[16:31]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:32]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:32]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:33]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/03[16:33]prop_physics killed CiP4.45-CCA.45401 (STEAM_0:0:9087358) with prop_physics
+11/03[16:33]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:34]CCA-N.45.Stalker.049 (STEAM_0:1:10030189) killed CCA-N.45.Stalker.049 (STEAM_0:1:10030189) with player
+11/03[16:36]trigger_hurt killed Eddie Gunner (STEAM_0:1:376684) with trigger_hurt
+11/03[16:37]trigger_hurt killed Eddie Gunner (STEAM_0:1:376684) with trigger_hurt
+11/03[16:41]Meryl Milo (STEAM_0:1:12543891) killed Marly Boleslav (STEAM_0:0:8225029) with player
+11/03[16:41]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[16:43]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:44]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed Allen Fisher (STEAM_0:0:7559990) with player
+11/03[16:45]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[16:45]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/03[16:45]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed Jackson Willson (STEAM_0:0:10353842) with player
+11/03[16:47]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[16:47]Jessica Smith (STEAM_0:0:138745) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[16:52]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-COL.C86725 (STEAM_0:1:10374806) with player
+11/03[16:53]prop_physics killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with prop_physics
+11/03[16:55]OW.HEL-SGT.T21304 (STEAM_0:1:13115627) killed OW.HEL-SGT.T21304 (STEAM_0:1:13115627) with player
+11/03[16:55]OW.HEL-SGT.T21304 (STEAM_0:1:13115627) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[16:56]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[16:57]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/03[16:57]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/03[17:02]OW.HEL-SGT.T21304 (STEAM_0:1:13115627) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[17:03]Bryan Herman (STEAM_0:0:13559354) killed Jackson Willson (STEAM_0:0:10353842) with player
+11/03[17:04]Rick Darkaliono (STEAM_0:1:4976333) killed Rick Darkaliono (STEAM_0:1:4976333) with player
+11/03[17:04]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/03[17:04]worldspawn killed Rick Darkaliono (STEAM_0:1:4976333)
+11/03[17:04]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[17:08]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/03[17:08]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/03[17:09]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-COL.C86725 (STEAM_0:1:10374806) with player
+11/03[17:10]OW.HEL-SGT.T21304 (STEAM_0:1:13115627) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/03[17:10]OW.HEL-SGT.T21304 (STEAM_0:1:13115627) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[17:11]Jareh McLoughlin (STEAM_0:1:13115627) killed Jareh McLoughlin (STEAM_0:1:13115627) with player
+11/03[17:16]env_fire killed Bryan Herman (STEAM_0:0:13559354) with env_fire
+11/03[17:17]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed Jessica Smith (STEAM_0:0:138745) with player
+11/03[17:19]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed Rick Darkaliono (STEAM_0:1:4976333) with player
+11/03[17:19]Riley Gibson (STEAM_0:0:13559354) killed Riley Gibson (STEAM_0:0:13559354) with player
+11/03[17:21]Vladimir Ivanov (STEAM_0:1:11763213) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[17:22]Dan Vance (STEAM_0:1:16172881) killed Dan Vance (STEAM_0:1:16172881) with player
+11/03[17:23]CiP4.45-CCA.45401 (STEAM_0:0:9087358) killed CiP4.45-CCA.45401 (STEAM_0:0:9087358) with player
+11/03[17:23]Vivi Orunitia (STEAM_0:1:11676925) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[17:24]Matt Jameson (STEAM_0:1:4241097) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[17:25]CiP4.45-CCA.45401 (STEAM_0:0:9087358) killed CiP4.45-CCA.45401 (STEAM_0:0:9087358) with player
+11/03[17:26]Mathew Phillips (STEAM_0:1:7667364) killed Adrian Nespeca (STEAM_0:1:12010849) with player
+11/03[17:30]env_fire killed Rick Darkaliono (STEAM_0:1:4976333) with env_fire
+11/03[17:31]Jimmy Popper (STEAM_0:0:14804522) killed Tom Johnson (STEAM_0:0:8766305) with player
+11/03[17:32]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[17:37]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[17:37]Jake C. Mofleno (STEAM_0:1:13195368) killed Jake C. Mofleno (STEAM_0:1:13195368) with player
+11/03[17:38]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[17:38]Mark Johnston (STEAM_0:1:5631575) killed Mark Johnston (STEAM_0:1:5631575) with player
+11/03[17:41]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed Seval Norton (STEAM_0:1:14053442) with player
+11/03[17:41]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[17:43]OW.HEL-TRI.16910 (STEAM_0:1:8517833) killed OW.HEL-TRI.16910 (STEAM_0:1:8517833) with player
+11/03[17:43]OW.HEL-TRI.16910 (STEAM_0:1:8517833) killed OW.HEL-TRI.16910 (STEAM_0:1:8517833) with player
+11/03[17:43]Matt Jameson (STEAM_0:1:4241097) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[17:44]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[17:46]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[17:47]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[17:47]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[17:47]OW.HEL-TRI.16910 (STEAM_0:1:8517833) killed OW.HEL-TRI.16910 (STEAM_0:1:8517833) with player
+11/03[17:48]Allen Fisher (STEAM_0:0:7559990) killed Allen Fisher (STEAM_0:0:7559990) with player
+11/03[17:48]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/03[17:48]CEU3.45-CCA.26312 (STEAM_0:0:13201389) killed CEU3.45-CCA.26312 (STEAM_0:0:13201389) with player
+11/03[17:48]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/03[17:48]CEU3.45-CCA-33133 (STEAM_0:1:6619152) killed CEU3.45-CCA-33133 (STEAM_0:1:6619152) with player
+11/03[17:48]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed CiP3.45-CCA.11156 (STEAM_0:0:13631579) with player
+11/03[17:49]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[17:51]CiP3.45-CCA.97761 (STEAM_0:1:13353956) killed CiP3.45-CCA.97761 (STEAM_0:1:13353956) with player
+11/03[17:51]Jessica Smith (STEAM_0:0:138745) killed Jessica Smith (STEAM_0:0:138745) with player
+11/03[17:57]CEU1.45-CCA.30222 (STEAM_0:1:6611647) killed CEU1.45-CCA.30222 (STEAM_0:1:6611647) with player
+11/03[18:04]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[18:05]CEU3.45-CCA-33133 (STEAM_0:1:6619152) killed Gunther Bidermann (STEAM_0:1:16487712) with player
+11/03[18:06]prop_physics killed Houston Hamilton (STEAM_0:1:16519150) with prop_physics
+11/03[18:07]CEU3.45-CCA.26312 (STEAM_0:0:13201389) killed CEU3.45-CCA.26312 (STEAM_0:0:13201389) with player
+11/03[18:10]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/03[18:12]Rachel Gatess (STEAM_0:1:5134642) killed Rachel Gatess (STEAM_0:1:5134642) with player
+11/03[18:12]Mcloud Darklight (STEAM_0:0:16775804) killed Mcloud Darklight (STEAM_0:0:16775804) with player
+11/03[18:14]Rachel Gatess (STEAM_0:1:5134642) killed Rachel Gatess (STEAM_0:1:5134642) with player
+11/03[18:15]Marcus Burton (STEAM_0:1:10081803) killed Marcus Burton (STEAM_0:1:10081803) with player
+11/03[18:20]Jessica Smith (STEAM_0:0:138745) killed CEU3.45-CCA-33133 (STEAM_0:1:6619152) with player
+11/03[18:20]Jessica Smith (STEAM_0:0:138745) killed Adrian Nespeca (STEAM_0:1:12010849) with player
+11/03[18:21]trigger_hurt killed Rachel Gatess (STEAM_0:1:5134642) with trigger_hurt
+11/03[18:22]Rachel Gatess (STEAM_0:1:5134642) killed Rachel Gatess (STEAM_0:1:5134642) with player
+11/03[18:22]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[18:23]Olevi Durskin (STEAM_0:1:8517833) killed Olevi Durskin (STEAM_0:1:8517833) with player
+11/03[18:23]Olevi Durskin (STEAM_0:1:8517833) killed Olevi Durskin (STEAM_0:1:8517833) with player
+11/03[18:24]Matt Jameson (STEAM_0:1:4241097) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[18:24]Gunther Bidermann (STEAM_0:1:16487712) killed Gunther Bidermann (STEAM_0:1:16487712) with player
+11/03[18:26]env_fire killed Matt Jameson (STEAM_0:1:4241097) with env_fire
+11/03[18:27]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[18:27]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[18:27]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[18:27]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[18:27]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[18:27]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/03[18:27]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed Luke Hendrix (STEAM_0:0:2184880) with player
+11/03[18:28]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[18:28]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/03[18:28]worldspawn killed Brandon Wihit (STEAM_0:1:10273270)
+11/03[18:30]Gunther Bidermann (STEAM_0:1:16487712) killed Gunther Bidermann (STEAM_0:1:16487712) with player
+11/03[18:30]prop_physics killed Grit Anders (STEAM_0:0:5122703) with prop_physics
+11/03[18:31]worldspawn killed CEU3.45-CCA-33133 (STEAM_0:1:6619152)
+11/03[18:32]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed CiP2.45-CCA.23641 (STEAM_0:0:11605597) with player
+11/03[18:33]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[18:33]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[18:35]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[18:35]Stan Gray (STEAM_0:1:13115627) killed Stan Gray (STEAM_0:1:13115627) with player
+11/03[18:35]worldspawn killed CEU3.45-CCA-33133 (STEAM_0:1:6619152)
+11/03[18:35]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[18:35]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[18:36]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[18:36]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[18:36]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[18:36]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[18:36]worldspawn killed CEU3.45-CCA-33133 (STEAM_0:1:6619152)
+11/03[18:36]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[18:37]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[18:38]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[18:38]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[18:39]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[18:41]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[18:42]prop_physics killed Gunther Bidermann (STEAM_0:1:16487712) with prop_physics
+11/03[18:43]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[18:43]CEU3.45-CCA.26312 (STEAM_0:0:13201389) killed CEU3.45-CCA.26312 (STEAM_0:0:13201389) with player
+11/03[18:43]Xavier ' X ' Cooladge (STEAM_0:0:13201389) killed Xavier ' X ' Cooladge (STEAM_0:0:13201389) with player
+11/03[18:46]worldspawn killed CEU3.45-CCA-33133 (STEAM_0:1:6619152)
+11/03[18:47]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[18:47]CEU3.45-CCA-33133 (STEAM_0:1:6619152) killed Stan Gray (STEAM_0:1:13115627) with player
+11/03[18:49]worldspawn killed Grit Anders (STEAM_0:0:5122703)
+11/03[18:49]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[18:49]worldspawn killed CEU3.45-CCA-33133 (STEAM_0:1:6619152)
+11/03[18:50]Brandon Wihit (STEAM_0:1:10273270) killed Brandon Wihit (STEAM_0:1:10273270) with player
+11/03[18:51]prop_physics killed Houston Hamilton (STEAM_0:1:16519150) with prop_physics
+11/03[18:51]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[18:52]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed Luke Hendrix (STEAM_0:0:2184880) with player
+11/03[18:52]worldspawn killed Brandon Wihit (STEAM_0:1:10273270)
+11/03[18:57]worldspawn killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881)
+11/03[18:58]Sam Bower (STEAM_0:0:12115754) killed Sam Bower (STEAM_0:0:12115754) with player
+11/03[19:01]worldspawn killed Shay DiGian (STEAM_0:0:14386938)
+11/03[19:01]prop_physics killed Grit Anders (STEAM_0:0:5122703) with prop_physics
+11/03[19:01]worldspawn killed Stan Gray (STEAM_0:1:13115627)
+11/03[19:02]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[19:02]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[19:03]Garine D. Kaine (STEAM_0:0:10041065) killed Garine D. Kaine (STEAM_0:0:10041065) with player
+11/03[19:04]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[19:04]James Smith (STEAM_0:1:13657746) killed James Smith (STEAM_0:1:13657746) with player
+11/03[19:06]CiP2.45-CCA.16533 (STEAM_0:0:5304988) killed CiP2.45-CCA.16533 (STEAM_0:0:5304988) with player
+11/03[19:08]David White (STEAM_0:0:12444881) killed David White (STEAM_0:0:12444881) with player
+11/03[19:10]worldspawn killed Bob Akir (STEAM_0:0:6033181)
+11/03[19:12]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[19:14]Nyu Sasogama (STEAM_0:1:7667364) killed Nyu Sasogama (STEAM_0:1:7667364) with player
+11/03[19:14]Shay DiGian (STEAM_0:0:14386938) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/03[19:14]Nyu Sasogama (STEAM_0:1:7667364) killed Nyu Sasogama (STEAM_0:1:7667364) with player
+11/03[19:14]Nyu Sasogama (STEAM_0:1:7667364) killed Nyu Sasogama (STEAM_0:1:7667364) with player
+11/03[19:17]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[19:18]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[19:18]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[19:18]Jordan Taylor (STEAM_0:1:7636612) killed Jordan Taylor (STEAM_0:1:7636612) with player
+11/03[19:22]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[19:24]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[19:27]Mark Steel (STEAM_0:1:13876482) killed Mark Steel (STEAM_0:1:13876482) with player
+11/03[19:28]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/03[19:28]trigger_hurt killed Stan Gray (STEAM_0:1:13115627) with trigger_hurt
+11/03[19:29]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[19:31]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[19:31]Jamie Meldrum (STEAM_0:1:14655443) killed Jamie Meldrum (STEAM_0:1:14655443) with player
+11/03[19:31]Mike Sanders (STEAM_0:0:11850231) killed Mike Sanders (STEAM_0:0:11850231) with player
+11/03[19:32]CiP4.45-CCA.15672 (STEAM_0:0:8975160) killed CiP4.45-CCA.15672 (STEAM_0:0:8975160) with player
+11/03[19:32]CEU3.45-CCA-33133 (STEAM_0:1:6619152) killed CEU3.45-CCA-33133 (STEAM_0:1:6619152) with player
+11/03[19:34]Jamie Meldrum (STEAM_0:1:14655443) killed Jamie Meldrum (STEAM_0:1:14655443) with player
+11/03[19:40]Jake C. Mofleno (STEAM_0:1:13195368) killed Jake C. Mofleno (STEAM_0:1:13195368) with player
+11/03[19:40]Jamie Meldrum (STEAM_0:1:14655443) killed Jamie Meldrum (STEAM_0:1:14655443) with player
+11/03[19:42]CiP2.45-CCA.16533 (STEAM_0:0:5304988) killed CiP2.45-CCA.16533 (STEAM_0:0:5304988) with player
+11/03[19:43]CEU3.45-CCA-33133 (STEAM_0:1:6619152) killed Mark Steel (STEAM_0:1:13876482) with player
+11/03[19:51]CiP3.45-CCA.42192 (STEAM_0:0:14941107) killed CiP3.45-CCA.42192 (STEAM_0:0:14941107) with player
+11/03[19:57]worldspawn killed Matt Jameson (STEAM_0:1:4241097)
+11/03[20:02]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[20:02]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[20:04]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[20:04]tommy smith (STEAM_0:0:12158270) killed tommy smith (STEAM_0:0:12158270) with player
+11/03[20:04]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[20:04]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[20:05]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[20:05]Stan Gray (STEAM_0:1:13115627) killed Stan Gray (STEAM_0:1:13115627) with player
+11/03[20:05]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[20:05]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[20:10]Ivan Irving (STEAM_0:1:6464897) killed Ivan Irving (STEAM_0:1:6464897) with player
+11/03[20:10]Mike Sanders (STEAM_0:0:11850231) killed Mike Sanders (STEAM_0:0:11850231) with player
+11/03[20:12]Morse Trael (STEAM_0:1:10690046) killed Morse Trael (STEAM_0:1:10690046) with player
+11/03[20:14]Vladimir Ivanov (STEAM_0:1:11763213) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[20:14]Vladimir Ivanov (STEAM_0:1:11763213) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[20:17]Guillaume Longpre (STEAM_0:0:14941107) killed Guillaume Longpre (STEAM_0:0:14941107) with player
+11/03[20:17]Guillaume Longpre (STEAM_0:0:14941107) killed Guillaume Longpre (STEAM_0:0:14941107) with player
+11/03[20:19]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[20:20]Steve Schlichter (STEAM_0:1:14035762) killed Steve Schlichter (STEAM_0:1:14035762) with player
+11/03[20:22]Connor J Valan (STEAM_0:1:14158967) killed Connor J Valan (STEAM_0:1:14158967) with player
+11/03[20:22]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[20:22]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed CiP2.45-CCA.23641 (STEAM_0:0:11605597) with player
+11/03[20:23]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/03[20:23]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/03[20:24]worldspawn killed Ivan Irving (STEAM_0:1:6464897)
+11/03[20:24]trigger_hurt killed Mark Steel (STEAM_0:1:13876482) with trigger_hurt
+11/03[20:25]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[20:26]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/03[20:27]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed Connor J Valan (STEAM_0:1:14158967) with player
+11/03[20:27]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed Alucard Natas (STEAM_0:0:15281744) with player
+11/03[20:33]James Brown (STEAM_0:1:16597267) killed James Brown (STEAM_0:1:16597267) with player
+11/03[20:33]CiP2.45-CCA.23641 (STEAM_0:0:11605597) killed Mark Steel (STEAM_0:1:13876482) with player
+11/03[20:36]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed Connor J Valan (STEAM_0:1:14158967) with player
+11/03[20:39]worldspawn killed Mark Steel (STEAM_0:1:13876482)
+11/03[20:40]Gunther Smith (STEAM_0:1:11457138) killed Gunther Smith (STEAM_0:1:11457138) with player
+11/03[20:41]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Garine D. Kaine (STEAM_0:0:10041065) with player
+11/03[20:43]Mark Steel (STEAM_0:1:13876482) killed Mark Steel (STEAM_0:1:13876482) with player
+11/03[20:44]Dylan johnson (STEAM_0:1:14523805) killed Dylan johnson (STEAM_0:1:14523805) with player
+11/03[20:45]DeL.45-CTD.44241 (STEAM_0:0:9103466) killed DeL.45-CTD.44241 (STEAM_0:0:9103466) with player
+11/03[20:45]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/03[20:46]CEU1.45-CCA.21304 (STEAM_0:1:13115627) killed CEU1.45-CCA.21304 (STEAM_0:1:13115627) with player
+11/03[20:48]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/03[20:50]CiP3.45-CCA.42192 (STEAM_0:0:14941107) killed CiP3.45-CCA.42192 (STEAM_0:0:14941107) with player
+11/03[20:50]James Crocker (STEAM_0:1:5557838) killed James Crocker (STEAM_0:1:5557838) with player
+11/03[20:59]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/03[20:59]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[20:59]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[21:00]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[21:04]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/03[21:07]James Crocker (STEAM_0:1:5557838) killed James Crocker (STEAM_0:1:5557838) with player
+11/03[21:10]worldspawn killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881)
+11/03[21:12]CiP3.45-CCA.42192 (STEAM_0:0:14941107) killed CiP3.45-CCA.42192 (STEAM_0:0:14941107) with player
+11/03[21:13]Paul Bourne (STEAM_0:0:11793378) killed Paul Bourne (STEAM_0:0:11793378) with player
+11/03[21:15]CCA-N.45.Stalker.049 (STEAM_0:1:10030189) killed CCA-N.45.Stalker.049 (STEAM_0:1:10030189) with player
+11/03[21:15]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[21:15]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[21:15]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[21:17]trigger_hurt killed Gunther Smith (STEAM_0:1:11457138) with trigger_hurt
+11/03[21:17]John Jones (STEAM_0:1:16597267) killed John Jones (STEAM_0:1:16597267) with player
+11/03[21:17]CiP3.45-CCA.78535 (STEAM_0:1:14170344) killed CiP3.45-CCA.78535 (STEAM_0:1:14170344) with player
+11/03[21:17]CCA-N.45.Stalker.049 (STEAM_0:1:10030189) killed CCA-N.45.Stalker.049 (STEAM_0:1:10030189) with player
+11/03[21:18]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/03[21:18]Ayden Fynn (STEAM_0:1:13542517) killed Ayden Fynn (STEAM_0:1:13542517) with player
+11/03[21:19]prop_physics killed James Crocker (STEAM_0:1:5557838) with prop_physics
+11/03[21:25]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/03[21:25]trigger_hurt killed Klara Severin (STEAM_0:1:12591206) with trigger_hurt
+11/03[21:26]Ronald Mcdonald (STEAM_0:0:13595350) killed Ronald Mcdonald (STEAM_0:0:13595350) with player
+11/03[21:32]CEU3.45-CCA-33133 (STEAM_0:1:6619152) killed CEU3.45-CCA-33133 (STEAM_0:1:6619152) with player
+11/03[21:33]Gunther Smith (STEAM_0:1:11457138) killed Gunther Smith (STEAM_0:1:11457138) with player
+11/03[21:34]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed CiP3.45-CCA.11156 (STEAM_0:0:13631579) with player
+11/03[21:38]prop_physics killed CCA-N.45.Stalker.049 (STEAM_0:1:10030189) with prop_physics
+11/03[21:40]DeL.45-CTD.44241 (STEAM_0:0:9103466) killed DeL.45-CTD.44241 (STEAM_0:0:9103466) with player
+11/03[21:41]John Connor (STEAM_0:1:14158967) killed John Connor (STEAM_0:1:14158967) with player
+11/03[21:42]worldspawn killed Gunther Smith (STEAM_0:1:11457138)
+11/03[21:46]CiP3.45-CCA.78535 (STEAM_0:1:14170344) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[21:48]Gunther Smith (STEAM_0:1:11457138) killed Gunther Smith (STEAM_0:1:11457138) with player
+11/03[21:57]worldspawn killed Bryan Herman (STEAM_0:0:13559354)
+11/03[22:01]CiP3.45-CCA.42192 (STEAM_0:0:14941107) killed John Jones (STEAM_0:1:16597267) with player
+11/03[22:02]worldspawn killed CCA-N.45.Stalker.049 (STEAM_0:1:10030189)
+11/03[22:02]CCA-N.45.Stalker.049 (STEAM_0:1:10030189) killed CCA-N.45.Stalker.049 (STEAM_0:1:10030189) with player
+11/03[22:05]Nonis Redael (STEAM_0:1:12663332) killed Nonis Redael (STEAM_0:1:12663332) with player
+11/03[22:06]Isaac Irving (STEAM_0:1:6464897) killed Isaac Irving (STEAM_0:1:6464897) with player
+11/03[22:06]trigger_hurt killed Seval Norton (STEAM_0:1:14053442) with trigger_hurt
+11/03[22:07]trigger_hurt killed Ronald Mcdonald (STEAM_0:0:13595350) with trigger_hurt
+11/03[22:07]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[22:08]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/03[22:08]Isaac Irving (STEAM_0:1:6464897) killed Isaac Irving (STEAM_0:1:6464897) with player
+11/03[22:08]Isaac Irving (STEAM_0:1:6464897) killed Isaac Irving (STEAM_0:1:6464897) with player
+11/03[22:09]Ean Kiegger (STEAM_0:0:5997786) killed Ean Kiegger (STEAM_0:0:5997786) with player
+11/03[22:10]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/03[22:11]Bryan Herman (STEAM_0:0:13559354) killed Bryan Herman (STEAM_0:0:13559354) with player
+11/03[22:11]prop_physics killed CCA-N.45.Stalker.049 (STEAM_0:1:10030189) with prop_physics
+11/03[22:11]DeL.45-CTD.44241 (STEAM_0:0:9103466) killed DeL.45-CTD.44241 (STEAM_0:0:9103466) with player
+11/03[22:12]OW.SHADOW-COMM.19119 (STEAM_0:0:9103466) killed OW.SHADOW-COMM.19119 (STEAM_0:0:9103466) with player
+11/03[22:12]OW.SHADOW-COMM.19119 (STEAM_0:0:9103466) killed OW.SHADOW-COMM.19119 (STEAM_0:0:9103466) with player
+11/03[22:12]OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) killed OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) with player
+11/03[22:12]Alexander Rothko (STEAM_0:1:4913542) killed Alexander Rothko (STEAM_0:1:4913542) with player
+11/03[22:12]prop_physics killed Jake C. Mofleno (STEAM_0:1:13195368) with prop_physics
+11/03[22:16]worldspawn killed Ronald Mcdonald (STEAM_0:0:13595350)
+11/03[22:19]David Slavona (STEAM_0:0:10147457) killed David Slavona (STEAM_0:0:10147457) with player
+11/03[22:20]CEU3.45-CCA-33133 (STEAM_0:1:6619152) killed Jake C. Mofleno (STEAM_0:1:13195368) with player
+11/03[22:21]worldspawn killed Andrew Abaddon (STEAM_0:1:4005816)
+11/03[22:23]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Ean Kiegger (STEAM_0:0:5997786) with player
+11/03[22:24]James Crocker (STEAM_0:1:5557838) killed James Crocker (STEAM_0:1:5557838) with player
+11/03[22:24]worldspawn killed Marly Boleslav (STEAM_0:0:8225029)
+11/03[22:24]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/03[22:30]Nemka Klein (STEAM_0:1:14170344) killed Nemka Klein (STEAM_0:1:14170344) with player
+11/03[22:31]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed Ean Kiegger (STEAM_0:0:5997786) with player
+11/03[22:32]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[22:32]Rocky Lee (STEAM_0:0:13047716) killed Rocky Lee (STEAM_0:0:13047716) with player
+11/03[22:33]OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) killed Bryan Herman (STEAM_0:0:13559354) with player
+11/03[22:34]OW.SHADOW-COMM.19119 (STEAM_0:0:9103466) killed Adrian Nespeca (STEAM_0:1:12010849) with player
+11/03[22:34]Ean Kiegger (STEAM_0:0:5997786) killed Ean Kiegger (STEAM_0:0:5997786) with player
+11/03[22:35]func_physbox killed Ean Kiegger (STEAM_0:0:5997786) with func_physbox
+11/03[22:35]OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) killed OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) with player
+11/03[22:36]Rocky Lee (STEAM_0:0:13047716) killed Rocky Lee (STEAM_0:0:13047716) with player
+11/03[22:38]OW.SHADOW-TAC.4091 (STEAM_0:1:5558212) killed OW.SHADOW-TAC.4091 (STEAM_0:1:5558212) with player
+11/03[22:38]OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) killed OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) with player
+11/03[22:38]trigger_hurt killed David Slavona (STEAM_0:0:10147457) with trigger_hurt
+11/03[22:38]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[22:39]worldspawn killed Gunther Bidermann (STEAM_0:1:16487712)
+11/03[22:40]CEU3.45-CCA-33133 (STEAM_0:1:6619152) killed CEU3.45-CCA-33133 (STEAM_0:1:6619152) with player
+11/03[22:41]trigger_hurt killed Ean Kiegger (STEAM_0:0:5997786) with trigger_hurt
+11/03[22:41]Jack Lee (STEAM_0:1:14764243) killed Jack Lee (STEAM_0:1:14764243) with player
+11/03[22:41]Rex Lee (STEAM_0:0:9103466) killed Rex Lee (STEAM_0:0:9103466) with player
+11/03[22:41]CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[22:42]Bennet Dyson (STEAM_0:1:5558212) killed Bennet Dyson (STEAM_0:1:5558212) with player
+11/03[22:44]Rex Lee (STEAM_0:0:9103466) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/03[22:44]trigger_hurt killed Kaity Fel (STEAM_0:0:6033181) with trigger_hurt
+11/03[22:44]Kaity Fel (STEAM_0:0:6033181) killed Kaity Fel (STEAM_0:0:6033181) with player
+11/03[22:51]Eddy Carolla (STEAM_0:0:15521705) killed Eddy Carolla (STEAM_0:0:15521705) with player
+11/03[22:53]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[22:54]Travis Ronick (STEAM_0:1:12243188) killed Travis Ronick (STEAM_0:1:12243188) with player
+11/03[22:55]CEU3.45-CCA-33133 (STEAM_0:1:6619152) killed CEU3.45-CCA-33133 (STEAM_0:1:6619152) with player
+11/03[22:56]Lin Chyung (STEAM_0:1:12665514) killed Lin Chyung (STEAM_0:1:12665514) with player
+11/03[22:56]Lin Chyung (STEAM_0:1:12665514) killed Lin Chyung (STEAM_0:1:12665514) with player
+11/03[22:56]Isaac Irving (STEAM_0:1:6464897) killed Isaac Irving (STEAM_0:1:6464897) with player
+11/03[22:56]Ean Kiegger (STEAM_0:0:5997786) killed Ean Kiegger (STEAM_0:0:5997786) with player
+11/03[22:58]Nemka Klein (STEAM_0:1:14170344) killed CiP.45-CCA.Temp-169 (STEAM_0:0:12444881) with player
+11/03[23:00]prop_physics killed Houston Hamilton (STEAM_0:1:16519150) with prop_physics
+11/03[23:03]Rick Luna (STEAM_0:1:6971496) killed Rick Luna (STEAM_0:1:6971496) with player
+11/03[23:03]CEU3.45-CCA-33133 (STEAM_0:1:6619152) killed CEU3.45-CCA-33133 (STEAM_0:1:6619152) with player
+11/03[23:04]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[23:04]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[23:04]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[23:04]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[23:09]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/03[23:09]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/03[23:09]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Rocky Lee (STEAM_0:0:13047716) with player
+11/03[23:11]worldspawn killed Rocky Lee (STEAM_0:0:13047716)
+11/03[23:14]Mitchell Lee (STEAM_0:0:13654694) killed Mitchell Lee (STEAM_0:0:13654694) with player
+11/03[23:14]Frank Macc (STEAM_0:1:16829383) killed Frank Macc (STEAM_0:1:16829383) with player
+11/03[23:15]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/03[23:15]Frank Macc (STEAM_0:1:16829383) killed Frank Macc (STEAM_0:1:16829383) with player
+11/03[23:15]Rocky Lee (STEAM_0:0:13047716) killed Rocky Lee (STEAM_0:0:13047716) with player
+11/03[23:15]trigger_hurt killed Raiden Marshall (STEAM_0:1:6619152) with trigger_hurt
+11/03[23:15]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/03[23:16]Zakk How (STEAM_0:1:15069043) killed Zakk How (STEAM_0:1:15069043) with player
+11/03[23:17]worldspawn killed Chris Herman (STEAM_0:0:13559354)
+11/03[23:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[23:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[23:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[23:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[23:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[23:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[23:18]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/03[23:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[23:18]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed CiP3.45-CCA.97864 (STEAM_0:1:12243188) with player
+11/03[23:19]worldspawn killed Ean Kiegger (STEAM_0:0:5997786)
+11/03[23:20]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/03[23:20]OW.HEL-UNI.O55018 (STEAM_0:1:7752135) killed OW.HEL-UNI.O55018 (STEAM_0:1:7752135) with player
+11/03[23:21]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Jake C. Mofleno (STEAM_0:1:13195368) with player
+11/03[23:21]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Rocky Lee (STEAM_0:0:13047716) with player
+11/03[23:21]Jack Lee (STEAM_0:1:14764243) killed Jack Lee (STEAM_0:1:14764243) with player
+11/03[23:22]prop_physics killed Adrian Nespeca (STEAM_0:1:12010849) with prop_physics
+11/03[23:24]Bill Vickson (STEAM_0:0:7561113) killed Isaac Irving (STEAM_0:1:6464897) with player
+11/03[23:25]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Rocky Lee (STEAM_0:0:13047716) with player
+11/03[23:25]Engerius Greel (STEAM_0:0:15657638) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[23:25]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Jack Lee (STEAM_0:1:14764243) with player
+11/03[23:25]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[23:26]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[23:26]Newton J. Richman (STEAM_0:0:10072801) killed Newton J. Richman (STEAM_0:0:10072801) with player
+11/03[23:26]Engerius Greel (STEAM_0:0:15657638) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[23:27]CiP.45-CCA.Temp-189 (STEAM_0:0:4436740) killed CiP.45-CCA.Temp-189 (STEAM_0:0:4436740) with player
+11/03[23:27]Jake C. Mofleno (STEAM_0:1:13195368) killed Jake C. Mofleno (STEAM_0:1:13195368) with player
+11/03[23:27]Raiden Marshall (STEAM_0:1:6619152) killed Raiden Marshall (STEAM_0:1:6619152) with player
+11/03[23:27]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[23:28]CEU3.45-CCA-33133 (STEAM_0:1:6619152) killed CEU3.45-CCA-33133 (STEAM_0:1:6619152) with player
+11/03[23:29]CEU3.45-CCA.33133 (STEAM_0:1:6619152) killed CEU3.45-CCA.33133 (STEAM_0:1:6619152) with player
+11/03[23:29]Isaac Irving (STEAM_0:1:6464897) killed Isaac Irving (STEAM_0:1:6464897) with player
+11/03[23:31]Meryl Milo (STEAM_0:1:12543891) killed Jack Derrick (STEAM_0:1:7752135) with player
+11/03[23:32]prop_physics killed Houston Hamilton (STEAM_0:1:16519150) with prop_physics
+11/03[23:32]worldspawn killed Vladimir Ivanov (STEAM_0:1:11763213)
+11/03[23:32]CEU3.45-CCA.33133 (STEAM_0:1:6619152) killed CEU3.45-CCA.33133 (STEAM_0:1:6619152) with player
+11/03[23:32]worldspawn killed CiP3.45-CCA.97864 (STEAM_0:1:12243188)
+11/03[23:34]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Adrian Nespeca (STEAM_0:1:12010849) with player
+11/03[23:35]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/03[23:35]Airton Dare (STEAM_0:1:13143496) killed Airton Dare (STEAM_0:1:13143496) with player
+11/03[23:36]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[23:36]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed Adrian Nespeca (STEAM_0:1:12010849) with player
+11/03[23:36]Airton Dare (STEAM_0:1:13143496) killed Airton Dare (STEAM_0:1:13143496) with player
+11/03[23:36]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/03[23:36]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Rocky Lee (STEAM_0:0:13047716) with player
+11/03[23:36]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/03[23:37]Airton Dare (STEAM_0:1:13143496) killed Airton Dare (STEAM_0:1:13143496) with player
+11/03[23:37]Vladimir Ivanov (STEAM_0:1:11763213) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/03[23:37]prop_physics killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with prop_physics
+11/03[23:37]Bob Hendrix (STEAM_0:1:15306396) killed Bob Hendrix (STEAM_0:1:15306396) with player
+11/03[23:38]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed Zakk How (STEAM_0:1:15069043) with player
+11/03[23:38]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Adrian Nespeca (STEAM_0:1:12010849) with player
+11/03[23:38]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Isaac Irving (STEAM_0:1:6464897) with player
+11/03[23:38]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Ean Kiegger (STEAM_0:0:5997786) with player
+11/03[23:39]worldspawn killed Rocky Lee (STEAM_0:0:13047716)
+11/03[23:40]worldspawn killed SqL.45-CTD.80085 (STEAM_0:0:4436740)
+11/03[23:41]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[23:41]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Bob Hendrix (STEAM_0:1:15306396) with player
+11/03[23:41]Ean Kiegger (STEAM_0:0:5997786) killed Ean Kiegger (STEAM_0:0:5997786) with player
+11/03[23:41]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Zakk How (STEAM_0:1:15069043) with player
+11/03[23:41]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Adrian Nespeca (STEAM_0:1:12010849) with player
+11/03[23:44]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[23:44]Engerius Greel (STEAM_0:0:15657638) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/03[23:44]CiP3.45-CCA.97864 (STEAM_0:1:12243188) killed Bob Hendrix (STEAM_0:1:15306396) with player
+11/03[23:45]Charles Parker (STEAM_0:1:6068003) killed Zakk How (STEAM_0:1:15069043) with player
+11/03[23:46]CEU3.45-CCA.19032 (STEAM_0:1:6094935) killed CEU3.45-CCA.19032 (STEAM_0:1:6094935) with player
+11/03[23:51]worldspawn killed Newton J. Richman (STEAM_0:0:10072801)
+11/03[23:51]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Bob Hendrix (STEAM_0:1:15306396) with player
+11/03[23:52]Jerry Pants (STEAM_0:1:9457324) killed Jerry Pants (STEAM_0:1:9457324) with player
+11/03[23:54]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/03[23:54]prop_physics killed Newton J. Richman (STEAM_0:0:10072801) with prop_physics
+11/03[23:54]Nemka Klein (STEAM_0:1:14170344) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/03[23:55]Mike Bauer (STEAM_0:1:12273216) killed Mike Bauer (STEAM_0:1:12273216) with player
+11/03[23:56]Rocky Lee (STEAM_0:0:13047716) killed Rocky Lee (STEAM_0:0:13047716) with player
+11/03[23:57]Bob Hendrix (STEAM_0:1:15306396) killed Bob Hendrix (STEAM_0:1:15306396) with player
+11/03[23:58]CiP4.45-CCA.15672 (STEAM_0:0:8975160) killed CiP4.45-CCA.15672 (STEAM_0:0:8975160) with player
+11/03[23:59]CiP4.45-CCA.15672 (STEAM_0:0:8975160) killed CiP4.45-CCA.15672 (STEAM_0:0:8975160) with player
+11/04[00:01]Shay DiGian (STEAM_0:0:14386938) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/04[00:03]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/04[00:03]Isaac Irving (STEAM_0:1:6464897) killed CEU3.45-CCA.19032 (STEAM_0:1:6094935) with player
+11/04[00:06]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/04[00:08]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/04[00:11]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[00:12]Charles Parker (STEAM_0:1:6068003) killed Zakk How (STEAM_0:1:15069043) with player
+11/04[00:19]prop_physics killed Mike Bauer (STEAM_0:1:12273216) with prop_physics
+11/04[00:22]Bill Vickson (STEAM_0:0:7561113) killed CEU3.45-CCA.19032 (STEAM_0:1:6094935) with player
+11/04[00:25]Newton J. Richman (STEAM_0:0:10072801) killed Newton J. Richman (STEAM_0:0:10072801) with player
+11/04[00:26]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/04[00:26]Jimmy Popper (STEAM_0:0:14804522) killed Jimmy Popper (STEAM_0:0:14804522) with player
+11/04[00:29]Bill Vickson (STEAM_0:0:7561113) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[00:29]Charles Parker (STEAM_0:1:6068003) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/04[00:29]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[00:30]Nemka Klein (STEAM_0:1:14170344) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/04[00:30]Adam Markov (STEAM_0:1:2588123) killed CEU3.45-CCA.19032 (STEAM_0:1:6094935) with player
+11/04[00:34]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[00:34]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/04[00:36]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/04[00:40]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[00:45]worldspawn killed Rocky Lee (STEAM_0:0:13047716)
+11/04[00:48]Rocky Lee (STEAM_0:0:13047716) killed Rocky Lee (STEAM_0:0:13047716) with player
+11/04[00:49]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/04[00:49]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed OW.HEL-Comm.T46977 (STEAM_0:1:11556876) with player
+11/04[00:50]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed OW.HEL-Comm.T46977 (STEAM_0:1:11556876) with player
+11/04[00:53]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[00:53]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[00:53]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[00:53]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[00:53]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[00:53]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[00:53]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[00:54]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[00:59]Jack Derrick (STEAM_0:1:7752135) killed Jack Derrick (STEAM_0:1:7752135) with player
+11/04[01:00]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:05]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:06]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:06]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:06]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/04[01:07]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Gunther Bidermann (STEAM_0:1:16487712) with player
+11/04[01:07]Arkady Vistok (STEAM_0:1:3479021) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/04[01:11]Jack Derrick (STEAM_0:1:7752135) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/04[01:12]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/04[01:13]CCA-N.45.Stalker.049 (STEAM_0:1:10030189) killed CCA-N.45.Stalker.049 (STEAM_0:1:10030189) with player
+11/04[01:15]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/04[01:15]Kama Sutra (STEAM_0:0:3260005) killed Rocky Lee (STEAM_0:0:13047716) with player
+11/04[01:18]worldspawn killed Rocky Lee (STEAM_0:0:13047716)
+11/04[01:19]Engerius Greel (STEAM_0:0:15657638) killed Gunther Bidermann (STEAM_0:1:16487712) with player
+11/04[01:21]worldspawn killed Rocky Lee (STEAM_0:0:13047716)
+11/04[01:22]Charles Parker (STEAM_0:1:6068003) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/04[01:22]Charles Parker (STEAM_0:1:6068003) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/04[01:22]worldspawn killed Rocky Lee (STEAM_0:0:13047716)
+11/04[01:22]Jack Lee (STEAM_0:1:14764243) killed Jack Lee (STEAM_0:1:14764243) with player
+11/04[01:24]worldspawn killed CCA-N.45.Stalker.049 (STEAM_0:1:10030189)
+11/04[01:24]worldspawn killed Rocky Lee (STEAM_0:0:13047716)
+11/04[01:25]worldspawn killed Jack Lee (STEAM_0:1:14764243)
+11/04[01:25]Attila Hunson (STEAM_0:1:16487712) killed Attila Hunson (STEAM_0:1:16487712) with player
+11/04[01:26]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/04[01:27]Nemka Klein (STEAM_0:1:14170344) killed Attila Hunson (STEAM_0:1:16487712) with player
+11/04[01:27]worldspawn killed Jack Lee (STEAM_0:1:14764243)
+11/04[01:28]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[01:29]Nemka Klein (STEAM_0:1:14170344) killed Attila Hunson (STEAM_0:1:16487712) with player
+11/04[01:30]John ' Smashing ' Titticaca (STEAM_0:0:4436740) killed John ' Smashing ' Titticaca (STEAM_0:0:4436740) with player
+11/04[01:31]Attila Hunson (STEAM_0:1:16487712) killed Attila Hunson (STEAM_0:1:16487712) with player
+11/04[01:33]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed OW.HEL-Comm.T46977 (STEAM_0:1:11556876) with player
+11/04[01:34]Engerius Greel (STEAM_0:0:15657638) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[01:35]CiP3.45-CCA.78535 (STEAM_0:1:14170344) killed CiP3.45-CCA.78535 (STEAM_0:1:14170344) with player
+11/04[01:35]Engerius Greel (STEAM_0:0:15657638) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/04[01:35]Engerius Greel (STEAM_0:0:15657638) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/04[01:35]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[01:35]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed OW.HEL-Comm.T46977 (STEAM_0:1:11556876) with player
+11/04[01:36]CiP3.45-CCA.78535 (STEAM_0:1:14170344) killed CiP3.45-CCA.78535 (STEAM_0:1:14170344) with player
+11/04[01:36]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[01:36]CiP3.45-CCA.78535 (STEAM_0:1:14170344) killed CiP3.45-CCA.78535 (STEAM_0:1:14170344) with player
+11/04[01:38]worldspawn killed CCA-N.45.Stalker.049 (STEAM_0:1:10030189)
+11/04[01:38]Mike Bauer (STEAM_0:1:12273216) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/04[01:39]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Jake C. Mofleno (STEAM_0:1:13195368) with player
+11/04[01:39]Jack Derrick (STEAM_0:1:7752135) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[01:39]Jack Derrick (STEAM_0:1:7752135) killed CiP3.45-CCA.78535 (STEAM_0:1:14170344) with player
+11/04[01:40]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed OW.HEL-Comm.T46977 (STEAM_0:1:11556876) with player
+11/04[01:40]Charles Parker (STEAM_0:1:6068003) killed Kenton Henderson (STEAM_0:1:3880) with player
+11/04[01:40]OW.HEL-Comm.T46977 (STEAM_0:1:11556876) killed OW.HEL-Comm.T46977 (STEAM_0:1:11556876) with player
+11/04[01:41]Kama Sutra (STEAM_0:0:3260005) killed Engerius Greel (STEAM_0:0:15657638) with egon
+11/04[01:42]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/04[01:43]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/04[01:44]Adam Markov (STEAM_0:1:2588123) killed Adam Markov (STEAM_0:1:2588123) with player
+11/04[01:44]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Attila Hunson (STEAM_0:1:16487712) with player
+11/04[01:45]Kama Sutra (STEAM_0:0:3260005) killed Engerius Greel (STEAM_0:0:15657638) with dark_egon
+11/04[01:45]Kama Sutra (STEAM_0:0:3260005) killed John Dead (STEAM_0:1:11556876) with dark_egon
+11/04[01:45]Kama Sutra (STEAM_0:0:3260005) killed Engerius Greel (STEAM_0:0:15657638) with dark_egon
+11/04[01:45]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:45]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:45]Kama Sutra (STEAM_0:0:3260005) killed Engerius Greel (STEAM_0:0:15657638) with dark_egon
+11/04[01:45]John Dead (STEAM_0:1:11556876) killed Adam Markov (STEAM_0:1:2588123) with player
+11/04[01:45]John Dead (STEAM_0:1:11556876) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/04[01:46]Vladimir Ivanov (STEAM_0:1:11763213) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/04[01:46]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:46]Kama Sutra (STEAM_0:0:3260005) killed Engerius Greel (STEAM_0:0:15657638) with dark_egon
+11/04[01:46]Kama Sutra (STEAM_0:0:3260005) killed Vladimir Ivanov (STEAM_0:1:11763213) with dark_egon
+11/04[01:47]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/04[01:47]Kama Sutra (STEAM_0:0:3260005) killed Ryan Scott (STEAM_0:1:10420579) with dark_egon
+11/04[01:47]Kama Sutra (STEAM_0:0:3260005) killed Vladimir Ivanov (STEAM_0:1:11763213) with dark_egon
+11/04[01:47]Kama Sutra (STEAM_0:0:3260005) killed John Dead (STEAM_0:1:11556876) with dark_egon
+11/04[01:47]jlkak (STEAM_0:1:2588123) killed jlkak (STEAM_0:1:2588123) with player
+11/04[01:47]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[01:47]jlkak (STEAM_0:1:2588123) killed jlkak (STEAM_0:1:2588123) with player
+11/04[01:47]John Dead (STEAM_0:1:11556876) killed Vladimir Ivanov (STEAM_0:1:11763213) with dark_egon
+11/04[01:47]CEU1.45-CTD.32039 (STEAM_0:1:2588123) killed CEU1.45-CTD.32039 (STEAM_0:1:2588123) with player
+11/04[01:47]John Dead (STEAM_0:1:11556876) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with dark_egon
+11/04[01:47]John Dead (STEAM_0:1:11556876) killed Vladimir Ivanov (STEAM_0:1:11763213) with dark_egon
+11/04[01:47]John Dead (STEAM_0:1:11556876) killed Kama Sutra (STEAM_0:0:3260005) with dark_egon
+11/04[01:47]John Dead (STEAM_0:1:11556876) killed Ryan Scott (STEAM_0:1:10420579) with dark_egon
+11/04[01:48]Charles Parker (STEAM_0:1:6068003) killed Attila Hunson (STEAM_0:1:16487712) with player
+11/04[01:48]John Dead (STEAM_0:1:11556876) killed Vladimir Ivanov (STEAM_0:1:11763213) with dark_egon
+11/04[01:48]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with dark_egon
+11/04[01:48]Vladimir Ivanov (STEAM_0:1:11763213) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/04[01:48]John ' Smashing ' Titticaca (STEAM_0:0:4436740) killed John ' Smashing ' Titticaca (STEAM_0:0:4436740) with player
+11/04[01:49]trigger_hurt killed John ' Smashing ' Titticaca (STEAM_0:0:4436740) with trigger_hurt
+11/04[01:50]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/04[01:52]Ryan Scott (STEAM_0:1:10420579) killed Ryan Scott (STEAM_0:1:10420579) with player
+11/04[01:52]Tilly Wilson (STEAM_0:0:4436740) killed Tilly Wilson (STEAM_0:0:4436740) with player
+11/04[01:52]Tilly Wilson (STEAM_0:0:4436740) killed Tilly Wilson (STEAM_0:0:4436740) with player
+11/04[01:53]Kevin (STEAM_0:0:14998610) killed Kevin (STEAM_0:0:14998610) with player
+11/04[01:54]Brendon Carter (STEAM_0:1:10420579) killed Brendon Carter (STEAM_0:1:10420579) with player
+11/04[01:56]Francis Cortelli (STEAM_0:1:3880) killed Francis Cortelli (STEAM_0:1:3880) with player
+11/04[01:57]Johnny ' Two-bit ' Atomic (STEAM_0:1:15650221) killed Johnny ' Two-bit ' Atomic (STEAM_0:1:15650221) with player
+11/04[01:58]Charles Parker (STEAM_0:1:6068003) killed Servitore Breen (STEAM_0:1:6125426) with player
+11/04[01:58]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/04[01:58]Servitore Breen (STEAM_0:1:6125426) killed Servitore Breen (STEAM_0:1:6125426) with player
+11/04[01:59]Charles Parker (STEAM_0:1:6068003) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/04[01:59]Kyle Everson (STEAM_0:0:14633114) killed Kyle Everson (STEAM_0:0:14633114) with player
+11/04[01:59]Jace Tresin (STEAM_0:0:10997940) killed Jace Tresin (STEAM_0:0:10997940) with player
+11/04[01:00]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/04[01:01]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Jake C. Mofleno (STEAM_0:1:13195368) with player
+11/04[01:02]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/04[01:02]CiP3.45-CCA.78535 (STEAM_0:1:14170344) killed Kevin (STEAM_0:0:14998610) with player
+11/04[01:02]CiP3.45-CCA.78535 (STEAM_0:1:14170344) killed Brendon Carter (STEAM_0:1:10420579) with player
+11/04[01:03]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/04[01:03]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Mike Bauer (STEAM_0:1:12273216) with player
+11/04[01:06]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[01:06]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:06]Bill Vickson (STEAM_0:0:7561113) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[01:07]Kyle Helstad (STEAM_0:1:1669918) killed Kyle Helstad (STEAM_0:1:1669918) with player
+11/04[01:07]Charles Parker (STEAM_0:1:6068003) killed Jake C. Mofleno (STEAM_0:1:13195368) with player
+11/04[01:09]Travis Fisher (STEAM_0:1:3122929) killed Travis Fisher (STEAM_0:1:3122929) with player
+11/04[01:09]Gay Mexican (STEAM_0:1:11633261) killed Gay Mexican (STEAM_0:1:11633261) with player
+11/04[01:10]Mike Bauer (STEAM_0:1:12273216) killed John Dead (STEAM_0:1:11556876) with dark_egon
+11/04[01:12]Johnny ' Two-bit ' Atomic (STEAM_0:1:15650221) killed Johnny ' Two-bit ' Atomic (STEAM_0:1:15650221) with player
+11/04[01:14]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:14]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:17]worldspawn killed Kevin (STEAM_0:0:14998610)
+11/04[01:17]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[01:17]prop_physics killed Brendon Carter (STEAM_0:1:10420579) with prop_physics
+11/04[01:18]prop_physics killed Brendon Carter (STEAM_0:1:10420579) with prop_physics
+11/04[01:19]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[01:20]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[01:21]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[01:21]Jack Derrick (STEAM_0:1:7752135) killed Johnny ' Two-bit ' Atomic (STEAM_0:1:15650221) with player
+11/04[01:22]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[01:23]Bill Vickson (STEAM_0:0:7561113) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[01:26]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[01:27]Engerius Greel (STEAM_0:0:15657638) killed Engerius Greel (STEAM_0:0:15657638) with player
+11/04[01:27]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Jake C. Mofleno (STEAM_0:1:13195368) with player
+11/04[01:27]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Ean Kiegger (STEAM_0:0:5997786) with player
+11/04[01:27]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/04[01:27]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Servitore Breen (STEAM_0:1:6125426) with player
+11/04[01:27]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Johnny ' Two-bit ' Atomic (STEAM_0:1:15650221) with player
+11/04[01:29]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Bill Vickson (STEAM_0:0:7561113) with egon
+11/04[01:30]Jack Derrick (STEAM_0:1:7752135) killed Jack Derrick (STEAM_0:1:7752135) with player
+11/04[01:30]Jack Derrick (STEAM_0:1:7752135) killed Jack Derrick (STEAM_0:1:7752135) with player
+11/04[01:32]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[01:32]John Dead (STEAM_0:1:11556876) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with dark_egon
+11/04[01:32]John Dead (STEAM_0:1:11556876) killed Engerius Greel (STEAM_0:0:15657638) with dark_egon
+11/04[01:32]John Dead (STEAM_0:1:11556876) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with dark_egon
+11/04[01:32]John Dead (STEAM_0:1:11556876) killed Bill Vickson (STEAM_0:0:7561113) with dark_egon
+11/04[01:33]John Dead (STEAM_0:1:11556876) killed Jack Derrick (STEAM_0:1:7752135) with dark_egon
+11/04[01:34]worldspawn killed SqL.45-CTD.80085 (STEAM_0:0:4436740)
+11/04[01:34]worldspawn killed Jack Derrick (STEAM_0:1:7752135)
+11/04[01:35]worldspawn killed CiP5.45-CCA.91712 (STEAM_0:0:11793378)
+11/04[01:35]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed Jack Derrick (STEAM_0:1:7752135) with player
+11/04[01:35]worldspawn killed CiP5.45-CCA.91712 (STEAM_0:0:11793378)
+11/04[01:35]John Dead (STEAM_0:1:11556876) killed Jonathan Schultz (STEAM_0:0:338400) with dark_egon
+11/04[01:36]worldspawn killed Jack Derrick (STEAM_0:1:7752135)
+11/04[01:36]SqL.45-CTD.80085 (STEAM_0:0:4436740) killed SqL.45-CTD.80085 (STEAM_0:0:4436740) with player
+11/04[01:36]Ryua Nesha (STEAM_0:0:8706427) killed Ryua Nesha (STEAM_0:0:8706427) with player
+11/04[01:37]John Dead (STEAM_0:1:11556876) killed Jonathan Schultz (STEAM_0:0:338400) with dark_egon
+11/04[01:38]Jonathan Schultz (STEAM_0:0:338400) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:39]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[01:46]Jonathan Schultz (STEAM_0:0:338400) killed Jack Derrick (STEAM_0:1:7752135) with player
+11/04[01:46]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/04[01:49]Jonathan Schultz (STEAM_0:0:338400) killed Jack Derrick (STEAM_0:1:7752135) with player
+11/04[01:51]Jack Derrick (STEAM_0:1:7752135) killed Jack Derrick (STEAM_0:1:7752135) with player
+11/04[01:52]Altenan Sorna (STEAM_0:0:7392630) killed Altenan Sorna (STEAM_0:0:7392630) with player
+11/04[01:55]Vladimir Ivanov (STEAM_0:1:11763213) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/04[01:57]Jonathan Schultz (STEAM_0:0:338400) killed Jack Derrick (STEAM_0:1:7752135) with player
+11/04[02:00]Vladimir Ivanov (STEAM_0:1:11763213) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/04[02:01]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[02:01]Kama Sutra (STEAM_0:0:3260005) killed Jack Derrick (STEAM_0:1:7752135) with dark_egon
+11/04[02:02]prop_physics killed Jace Tresin (STEAM_0:0:10997940) with prop_physics
+11/04[02:03]Jonathan Schultz (STEAM_0:0:338400) killed Servitore Breen (STEAM_0:1:6125426) with dark_egon
+11/04[02:03]Jonathan Schultz (STEAM_0:0:338400) killed Jack Derrick (STEAM_0:1:7752135) with dark_egon
+11/04[02:06]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/04[02:08]Jonathan Schultz (STEAM_0:0:338400) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:09]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:09]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:10]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:10]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:10]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:10]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:10]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:10]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:10]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:10]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:10]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:10]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:10]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:10]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:10]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:11]Jack Derrick (STEAM_0:1:7752135) killed Jack Derrick (STEAM_0:1:7752135) with player
+11/04[02:12]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:12]Jack Derrick (STEAM_0:1:7752135) killed Jack Derrick (STEAM_0:1:7752135) with player
+11/04[02:12]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:12]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:12]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:12]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:13]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:13]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:13]Kama Sutra (STEAM_0:0:3260005) killed Kama Sutra (STEAM_0:0:3260005) with player
+11/04[02:13]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:14]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:14]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:14]trigger_hurt killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with trigger_hurt
+11/04[02:16]Jonathan Schultz (STEAM_0:0:338400) killed Jonathan Schultz (STEAM_0:0:338400) with player
+11/04[02:16]CEU2.45-CCA.55018 (STEAM_0:1:7752135) killed CEU2.45-CCA.55018 (STEAM_0:1:7752135) with player
+11/04[02:18]CEU2.45-CCA.55018 (STEAM_0:1:7752135) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/04[02:22]Vladimir Ivanov (STEAM_0:1:11763213) killed Vladimir Ivanov (STEAM_0:1:11763213) with player
+11/04[02:23]Jonathan Schultz (STEAM_0:0:338400) killed Engerius Greel (STEAM_0:0:15657638) with dark_egon
+11/04[02:25]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/04[02:31]prop_physics killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with prop_physics
+11/04[02:34]SqL.45-CCA.86725 (STEAM_0:1:10374806) killed SqL.45-CCA.86725 (STEAM_0:1:10374806) with player
+11/04[02:37]SqL.45-CCA.86725 (STEAM_0:1:10374806) killed SqL.45-CCA.86725 (STEAM_0:1:10374806) with player
+11/04[02:42]Tom Eye (STEAM_0:1:13312222) killed Tom Eye (STEAM_0:1:13312222) with player
+11/04[03:00]SqL.45-CCA.86725 (STEAM_0:1:10374806) killed SqL.45-CCA.86725 (STEAM_0:1:10374806) with player
+11/04[03:01]OW.HEL-COL.C86725 (STEAM_0:1:10374806) killed OW.HEL-COL.C86725 (STEAM_0:1:10374806) with player
+11/04[03:03]Altenan Sorna (STEAM_0:0:7392630) killed Altenan Sorna (STEAM_0:0:7392630) with player
+11/04[03:03]SqL.45-CCA.86725 (STEAM_0:1:10374806) killed SqL.45-CCA.86725 (STEAM_0:1:10374806) with player
+11/04[03:04]Altenan Sorna (STEAM_0:0:7392630) killed Altenan Sorna (STEAM_0:0:7392630) with player
+11/04[03:05]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[03:05]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[03:06]SqL.45-CCA.86725 (STEAM_0:1:10374806) killed SqL.45-CCA.86725 (STEAM_0:1:10374806) with player
+11/04[03:06]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[03:07]John Dead (STEAM_0:1:11556876) killed John Dead (STEAM_0:1:11556876) with player
+11/04[03:14]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/04[03:24]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/04[03:24]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/04[03:24]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Ethan Tremor (STEAM_0:1:3647694) with player
+11/04[03:24]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[03:30]SqL.45-CCA.86725 (STEAM_0:1:10374806) killed Shay DiGian (STEAM_0:0:14386938) with player
+11/04[03:37]worldspawn killed Ethan Tremor (STEAM_0:1:3647694)
+11/04[03:40]worldspawn killed Ethan Tremor (STEAM_0:1:3647694)
+11/04[03:42]CiP3.45-CCA.16327 (STEAM_0:0:13247579) killed CiP3.45-CCA.16327 (STEAM_0:0:13247579) with player
+11/04[03:46]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[03:50]SqL.45-CCA.86725 (STEAM_0:1:10374806) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[03:51]Matthew Landau (STEAM_0:1:12808593) killed Matthew Landau (STEAM_0:1:12808593) with player
+11/04[03:52]Matthew Landau (STEAM_0:1:12808593) killed Matthew Landau (STEAM_0:1:12808593) with player
+11/04[03:54]SqL.45-CCA.86725 (STEAM_0:1:10374806) killed Ethan Tremor (STEAM_0:1:3647694) with player
+11/04[03:57]Matthew Landau (STEAM_0:1:12808593) killed Matthew Landau (STEAM_0:1:12808593) with player
+11/04[03:59]SqL.45-CCA.86725 (STEAM_0:1:10374806) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[04:00]Ethan Tremor (STEAM_0:1:3647694) killed Ethan Tremor (STEAM_0:1:3647694) with player
+11/04[04:01]worldspawn killed CiP5.45-CCA.91712 (STEAM_0:0:11793378)
+11/04[04:02]Ethan Tremor (STEAM_0:1:3647694) killed Ethan Tremor (STEAM_0:1:3647694) with player
+11/04[04:05]Ian Tackle (STEAM_0:1:3647694) killed Ian Tackle (STEAM_0:1:3647694) with player
+11/04[04:05]worldspawn killed Mason Bannerman (STEAM_0:1:16603866)
+11/04[04:06]Afrei Kasaki (STEAM_0:1:10374806) killed Afrei Kasaki (STEAM_0:1:10374806) with player
+11/04[04:07]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP3.45-CCA.16327 (STEAM_0:0:13247579) with player
+11/04[04:07]Brian Tackman (STEAM_0:1:3647694) killed Brian Tackman (STEAM_0:1:3647694) with player
+11/04[04:08]CiP3.45-CCA.16327 (STEAM_0:0:13247579) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[04:08]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Afrei Kasaki (STEAM_0:1:10374806) with player
+11/04[04:12]worldspawn killed CiP5.45-CCA.91712 (STEAM_0:0:11793378)
+11/04[04:13]worldspawn killed CiP5.45-CCA.91712 (STEAM_0:0:11793378)
+11/04[04:13]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[04:14]CiP3.45-CCA.16327 (STEAM_0:0:13247579) killed CiP3.45-CCA.16327 (STEAM_0:0:13247579) with player
+11/04[04:15]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[04:16]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[04:16]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[04:16]CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/04[04:18]CiP3.45-CCA.16327 (STEAM_0:0:13247579) killed CiP3.45-CCA.16327 (STEAM_0:0:13247579) with player
+11/04[04:18]Emma Attwood (STEAM_0:0:13247579) killed Emma Attwood (STEAM_0:0:13247579) with player
+11/04[04:19]Nikolai Kowalsky (STEAM_0:0:12299695) killed Nikolai Kowalsky (STEAM_0:0:12299695) with player
+11/04[04:23]Jessica Smith (STEAM_0:0:138745) killed Nikolai Kowalsky (STEAM_0:0:12299695) with player
+11/04[04:24]Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) killed CiP.45-CCA.Temp-173 (STEAM_0:0:7392630) with player
+11/04[04:27]Jonathan Verdinski (STEAM_0:0:2823222) killed Jonathan Verdinski (STEAM_0:0:2823222) with player
+11/04[04:29]prop_physics killed Nikolai Kowalsky (STEAM_0:0:12299695) with prop_physics
+11/04[04:29]Nikolai Kowalsky (STEAM_0:0:12299695) killed Nikolai Kowalsky (STEAM_0:0:12299695) with player
+11/04[04:30]Jonathan Verdinski (STEAM_0:0:2823222) killed Jonathan Verdinski (STEAM_0:0:2823222) with player
+11/04[04:31]Alessa Leon (STEAM_0:0:6827188) killed Alessa Leon (STEAM_0:0:6827188) with player
+11/04[04:40]Afrei Kasaki (STEAM_0:1:10374806) killed Nikolai Kowalsky (STEAM_0:0:12299695) with player
+11/04[04:41]prop_physics killed Brian Tackman (STEAM_0:1:3647694) with prop_physics
+11/04[04:43]prop_physics killed Ethan Point (STEAM_0:1:5955725) with prop_physics
+11/04[04:44]Diago Gomez (STEAM_0:1:655261) killed Diago Gomez (STEAM_0:1:655261) with player
+11/04[04:45]Diago Gomez (STEAM_0:1:655261) killed Diago Gomez (STEAM_0:1:655261) with player
+11/04[04:45]Emma Attwood (STEAM_0:0:13247579) killed Emma Attwood (STEAM_0:0:13247579) with player
+11/04[04:45]CiP3.45-CCA.16327 (STEAM_0:0:13247579) killed CiP3.45-CCA.16327 (STEAM_0:0:13247579) with player
+11/04[04:47]Mitchell Bovee (STEAM_0:1:2326494) killed Mitchell Bovee (STEAM_0:1:2326494) with player
+11/04[04:48]Ethan Point (STEAM_0:1:5955725) killed Ethan Point (STEAM_0:1:5955725) with player
+11/04[04:48]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/04[04:49]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/04[04:49]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/04[04:50]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[04:51]CiP3.45-CCA.16327 (STEAM_0:0:13247579) killed CiP3.45-CCA.16327 (STEAM_0:0:13247579) with player
+11/04[04:53]Jessica Smith (STEAM_0:0:138745) killed Jessica Smith (STEAM_0:0:138745) with player
+11/04[04:56]prop_physics killed Richard Fox (STEAM_0:0:13247579) with prop_physics
+11/04[04:59]Brian Tackman (STEAM_0:1:3647694) killed Brian Tackman (STEAM_0:1:3647694) with player
+11/04[05:00]Alfred Penickle (STEAM_0:1:3647694) killed Alfred Penickle (STEAM_0:1:3647694) with player
+11/04[05:09]worldspawn killed Alfred Penickle (STEAM_0:1:3647694)
+11/04[05:12]Sql.45-Intel.17900 (STEAM_0:0:5122703) killed Sql.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/04[05:25]worldspawn killed Martial Logan (STEAM_0:1:16691872)
+11/04[05:28]Klaus Gruber (STEAM_0:0:13102548) killed Klaus Gruber (STEAM_0:0:13102548) with player
+11/04[05:28]prop_physics killed Sql.45-Intel.17900 (STEAM_0:0:5122703) with prop_physics
+11/04[05:28]prop_physics killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with prop_physics
+11/04[05:30]prop_physics killed Sql.45-Intel.17900 (STEAM_0:0:5122703) with prop_physics
+11/04[05:31]prop_physics killed Sql.45-Intel.17900 (STEAM_0:0:5122703) with prop_physics
+11/04[05:31]prop_physics killed Sql.45-Intel.17900 (STEAM_0:0:5122703) with prop_physics
+11/04[05:32]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed Matthew Smith (STEAM_0:1:15251953) with player
+11/04[05:33]Jack Wright (STEAM_0:0:13102548) killed Jack Wright (STEAM_0:0:13102548) with player
+11/04[05:41]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/04[05:41]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed OW.HEL-UNI.O55891 (STEAM_0:0:3978744) with player
+11/04[05:41]Nikolai Kowalsky (STEAM_0:0:12299695) killed Jessica Smith (STEAM_0:0:138745) with player
+11/04[05:42]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/04[05:43]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/04[05:43]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/04[05:52]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/04[05:59]Alfred Penickle (STEAM_0:1:3647694) killed Alfred Penickle (STEAM_0:1:3647694) with player
+11/04[06:00]Ethan Point (STEAM_0:1:5955725) killed Martial Logan (STEAM_0:1:16691872) with player
+11/04[06:01]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[06:04]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed Ethan Point (STEAM_0:1:5955725) with player
+11/04[06:04]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed Martial Logan (STEAM_0:1:16691872) with player
+11/04[06:06]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed Alfred Penickle (STEAM_0:1:3647694) with player
+11/04[06:07]Jonathan Verdinski (STEAM_0:0:2823222) killed Jonathan Verdinski (STEAM_0:0:2823222) with player
+11/04[06:11]OW.HEL-UNI.O55891 (STEAM_0:0:3978744) killed Alessa Leon (STEAM_0:0:6827188) with player
+11/04[06:11]Alfred Penickle (STEAM_0:1:3647694) killed Alfred Penickle (STEAM_0:1:3647694) with player
+11/04[06:15]CCA.Dispatch (STEAM_0:0:5122703) killed CCA.Dispatch (STEAM_0:0:5122703) with player
+11/04[06:20]Ethan Point (STEAM_0:1:5955725) killed Ethan Point (STEAM_0:1:5955725) with player
+11/04[06:24]Lei Ikss (STEAM_0:0:6058179) killed Lei Ikss (STEAM_0:0:6058179) with player
+11/04[06:26]OW.HEL-SGT.O40365 (STEAM_0:0:2823222) killed Lei Ikss (STEAM_0:0:6058179) with player
+11/04[06:27]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Jessica Smith (STEAM_0:0:138745) with player
+11/04[06:29]worldspawn killed John Cortez (STEAM_0:0:16563010)
+11/04[06:33]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed John Cortez (STEAM_0:0:16563010) with player
+11/04[06:34]CCA.Dispatch (STEAM_0:0:5122703) killed John Cortez (STEAM_0:0:16563010) with player
+11/04[06:36]OW.HEL-SGT.T40365 (STEAM_0:0:2823222) killed OW.HEL-SGT.T40365 (STEAM_0:0:2823222) with player
+11/04[06:36]OW.HEL-SGT.T55891 (STEAM_0:0:3978744) killed OW.HEL-SGT.T55891 (STEAM_0:0:3978744) with player
+11/04[06:37]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[06:41]CCA.Dispatch (STEAM_0:0:5122703) killed CCA.Dispatch (STEAM_0:0:5122703) with player
+11/04[06:43]Jessica Smith (STEAM_0:0:138745) killed Jessica Smith (STEAM_0:0:138745) with player
+11/04[06:46]CiP.45-CCA.Temp-175 (STEAM_0:0:16096090) killed CiP.45-CCA.Temp-175 (STEAM_0:0:16096090) with player
+11/04[06:47]CiP3.45-CCA.11156 (STEAM_0:0:13631579) killed CiP3.45-CCA.11156 (STEAM_0:0:13631579) with player
+11/04[06:48]OW.HEL-SGT.T55891 (STEAM_0:0:3978744) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[06:49]OW.HEL-SGT.T55891 (STEAM_0:0:3978744) killed OW.HEL-SGT.T55891 (STEAM_0:0:3978744) with player
+11/04[06:51]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/04[06:51]Billy Bonzuus (STEAM_0:0:13631579) killed Billy Bonzuus (STEAM_0:0:13631579) with player
+11/04[06:53]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/04[06:54]worldspawn killed CiP5.45-CCA.91712 (STEAM_0:0:11793378)
+11/04[06:55]Grit Anders (STEAM_0:0:5122703) killed Grit Anders (STEAM_0:0:5122703) with player
+11/04[06:59]OW.HEL-SGT.T55891 (STEAM_0:0:3978744) killed Alessa Leon (STEAM_0:0:6827188) with player
+11/04[07:01]OW.HEL-SGT.T55891 (STEAM_0:0:3978744) killed OW.HEL-SGT.T55891 (STEAM_0:0:3978744) with player
+11/04[07:02]worldspawn killed Jessica Smith (STEAM_0:0:138745)
+11/04[07:07]OW.HEL-SGT.T55891 (STEAM_0:0:3978744) killed OW.HEL-SGT.T55891 (STEAM_0:0:3978744) with player
+11/04[07:08]OW.HEL-SGT.T55891 (STEAM_0:0:3978744) killed OW.HEL-SGT.T55891 (STEAM_0:0:3978744) with player
+11/04[07:10]OW.HEL-SGT.T40365 (STEAM_0:0:2823222) killed OW.HEL-SGT.T40365 (STEAM_0:0:2823222) with player
+11/04[07:12]prop_physics killed Axel House (STEAM_0:1:14226281) with prop_physics
+11/04[07:14]OW.HEL-SGT.T55891 (STEAM_0:0:3978744) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/04[07:15]OW.HEL-SGT.T55891 (STEAM_0:0:3978744) killed Jessica Smith (STEAM_0:0:138745) with player
+11/04[07:17]OW.HEL-TRI.57641 (STEAM_0:1:9805986) killed OW.HEL-TRI.57641 (STEAM_0:1:9805986) with player
+11/04[07:20]OW.HEL-SGT.T55891 (STEAM_0:0:3978744) killed Jack Knitter (STEAM_0:1:8903366) with player
+11/04[07:21]CEU1.45-CCA.55891 (STEAM_0:0:3978744) killed CEU1.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/04[07:22]OW.HEL-SGT.T40365 (STEAM_0:0:2823222) killed OW.HEL-SGT.T40365 (STEAM_0:0:2823222) with player
+11/04[07:22]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/04[07:23]worldspawn killed CiP5.45-CCA.91712 (STEAM_0:0:11793378)
+11/04[07:23]Harry Kasaki (STEAM_0:1:9805986) killed Harry Kasaki (STEAM_0:1:9805986) with player
+11/04[07:24]moar pie (STEAM_0:0:2823222) killed moar pie (STEAM_0:0:2823222) with player
+11/04[07:24]CEU1.45-CCA.55891 (STEAM_0:0:3978744) killed Jonathan Verdinski (STEAM_0:0:2823222) with player
+11/04[07:24]Jonathan Verdinski (STEAM_0:0:2823222) killed Jonathan Verdinski (STEAM_0:0:2823222) with player
+11/04[07:25]Paul Bourne (STEAM_0:0:11793378) killed Paul Bourne (STEAM_0:0:11793378) with player
+11/04[07:25]Jonathan Verdinski (STEAM_0:0:2823222) killed Jonathan Verdinski (STEAM_0:0:2823222) with player
+11/04[07:25]CEU1.45-CCA.55891 (STEAM_0:0:3978744) killed CEU1.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/04[07:25]Jonathan Verdinski (STEAM_0:0:2823222) killed Jonathan Verdinski (STEAM_0:0:2823222) with player
+11/04[07:25]CEU1.45-CCA.55891 (STEAM_0:0:3978744) killed CEU1.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/04[07:25]CEU1.45-CCA.55891 (STEAM_0:0:3978744) killed Jonathan Verdinski (STEAM_0:0:2823222) with player
+11/04[07:26]prop_physics killed Paul Bourne (STEAM_0:0:11793378) with prop_physics
+11/04[07:26]CEU1.45-CCA.55891 (STEAM_0:0:3978744) killed CEU1.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/04[07:30]SqL.45.Intel-C17919 (STEAM_0:1:14635366) killed SqL.45.Intel-C17919 (STEAM_0:1:14635366) with player
+11/04[07:37]Jack Knitter (STEAM_0:1:8903366) killed Jack Knitter (STEAM_0:1:8903366) with player
+11/04[07:38]worldspawn killed Paul Bourne (STEAM_0:0:11793378)
+11/04[07:39]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[07:40]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[07:41]TOMBOMB (STEAM_0:0:16639359) killed TOMBOMB (STEAM_0:0:16639359) with player
+11/04[07:42]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Ethan Point (STEAM_0:1:5955725) with player
+11/04[07:43]CiP.45-CCA.Temp-175 (STEAM_0:0:16096090) killed CiP.45-CCA.Temp-175 (STEAM_0:0:16096090) with player
+11/04[07:44]Harry Kasaki (STEAM_0:1:9805986) killed Harry Kasaki (STEAM_0:1:9805986) with player
+11/04[07:44]CEU3.45-CCA.57641 (STEAM_0:1:9805986) killed CEU3.45-CCA.57641 (STEAM_0:1:9805986) with player
+11/04[07:45]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with player
+11/04[07:47]Jack Knitter (STEAM_0:1:8903366) killed Jack Knitter (STEAM_0:1:8903366) with player
+11/04[07:50]prop_physics killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169) with prop_physics
+11/04[07:51]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[07:51]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[07:51]prop_physics killed Ethan Point (STEAM_0:1:5955725) with prop_physics
+11/04[07:51]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[07:51]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[07:52]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[07:52]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[07:52]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[07:52]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[07:52]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[07:53]Franky Figgs (STEAM_0:1:13874754) killed Franky Figgs (STEAM_0:1:13874754) with player
+11/04[07:58]Rex Lee (STEAM_0:0:9103466) killed CiP5.45-CCA.91712 (STEAM_0:0:11793378) with player
+11/04[07:59]worldspawn killed Ethan Point (STEAM_0:1:5955725)
+11/04[07:59]worldspawn killed Yuri ' Sasha ' Kovochenko (STEAM_0:1:3685169)
+11/04[08:01]prop_physics killed Mathew Johnson (STEAM_0:0:10995923) with prop_physics
+11/04[08:03]CiP5.45-CCA.91712 (STEAM_0:0:11793378) killed Nikolai Kowalsky (STEAM_0:0:12299695) with player
+11/04[08:04]CiP.45-CCA.Temp-175 (STEAM_0:0:16096090) killed Jack Knitter (STEAM_0:1:8903366) with player
+11/04[08:08]OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) killed OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) with player
+11/04[08:08]OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) killed OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) with player
+11/04[08:19]SqL.45.Intel-C17919 (STEAM_0:1:14635366) killed SqL.45.Intel-C17919 (STEAM_0:1:14635366) with player
+11/04[08:20]OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) killed OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) with player
+11/04[08:20]Kaity Fel (STEAM_0:0:6033181) killed Kaity Fel (STEAM_0:0:6033181) with player
+11/04[08:22]OW.SHADOW-TAC.56600 (STEAM_0:1:11085921) killed OW.SHADOW-TAC.56600 (STEAM_0:1:11085921) with player
+11/04[08:22]CEU1.45-CCA.21304 (STEAM_0:1:13115627) killed CEU1.45-CCA.21304 (STEAM_0:1:13115627) with player
+11/04[08:22]OW.SHADOW-TAC.56600 (STEAM_0:1:11085921) killed OW.SHADOW-TAC.56600 (STEAM_0:1:11085921) with player
+11/04[08:22]OW.SHADOW-TAC.56600 (STEAM_0:1:11085921) killed OW.SHADOW-TAC.56600 (STEAM_0:1:11085921) with player
+11/04[08:23]OW.SHADOW-TAC.56600 (STEAM_0:1:11085921) killed OW.SHADOW-TAC.56600 (STEAM_0:1:11085921) with player
+11/04[08:24]SqL.45-Intel.17900 (STEAM_0:0:5122703) killed SqL.45-Intel.17900 (STEAM_0:0:5122703) with player
+11/04[08:28]CEU1.45-CCA.21304 (STEAM_0:1:13115627) killed CEU1.45-CCA.21304 (STEAM_0:1:13115627) with player
+11/04[08:29]OW.SHADOW-TAC.10349 (STEAM_0:1:10374806) killed OW.SHADOW-TAC.10349 (STEAM_0:1:10374806) with player
+11/04[08:30]Harry Kasaki (STEAM_0:1:9805986) killed Harry Kasaki (STEAM_0:1:9805986) with player
+11/04[08:31]CEU1.45-CCA.21304 (STEAM_0:1:13115627) killed CEU1.45-CCA.21304 (STEAM_0:1:13115627) with player
+11/04[08:32]OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) killed OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) with player
+11/04[08:38]OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) killed OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) with player
+11/04[08:40]CiP.45-CCA.Temp-175 (STEAM_0:0:16096090) killed CiP.45-CCA.Temp-175 (STEAM_0:0:16096090) with player
+11/04[08:43]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/04[08:53]OW.SHADOW-TAC.56600 (STEAM_0:1:11085921) killed OW.SHADOW-TAC.56600 (STEAM_0:1:11085921) with player
+11/04[08:54]OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) killed OW.SHADOW-TAC.40910 (STEAM_0:1:5558212) with player
+11/04[08:54]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/04[08:54]OW.SHADOW-TAC.10349 (STEAM_0:1:10374806) killed OW.SHADOW-TAC.10349 (STEAM_0:1:10374806) with player
+11/04[08:54]Razz Jackson (STEAM_0:0:4914999) killed Razz Jackson (STEAM_0:0:4914999) with player
+11/04[08:54]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/04[08:55]George Vince (STEAM_0:1:11085921) killed George Vince (STEAM_0:1:11085921) with player
+11/04[08:55]Afrei Kasaki (STEAM_0:1:10374806) killed Afrei Kasaki (STEAM_0:1:10374806) with player
+11/04[08:59]CiP.45-CCA.Temp-175 (STEAM_0:0:16096090) killed Razz Jackson (STEAM_0:0:4914999) with player
+11/04[09:00]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed Mike Sanders (STEAM_0:0:11850231) with player
+11/04[09:01]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/04[09:02]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/04[09:03]CiP.45-CCA.Temp-175 (STEAM_0:0:16096090) killed Razz Jackson (STEAM_0:0:4914999) with player
+11/04[09:05]Stan Gray (STEAM_0:1:13115627) killed Stan Gray (STEAM_0:1:13115627) with player
+11/04[09:09]prop_physics killed Stan Gray (STEAM_0:1:13115627) with prop_physics
+11/04[09:09]worldspawn killed Gedo Gray (STEAM_0:0:5394489)
+11/04[09:09]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed SqL.45-CCA.13867 (STEAM_0:1:5134642) with player
+11/04[09:10]CiP4.45-CCA.15672 (STEAM_0:0:8975160) killed CiP4.45-CCA.15672 (STEAM_0:0:8975160) with player
+11/04[09:18]John Smith (STEAM_0:0:16582740) killed John Smith (STEAM_0:0:16582740) with player
+11/04[09:18]Stan Gray (STEAM_0:1:13115627) killed Stan Gray (STEAM_0:1:13115627) with player
+11/04[09:19]trigger_hurt killed John Smith (STEAM_0:0:16582740) with trigger_hurt
+11/04[09:21]trigger_hurt killed John Smith (STEAM_0:0:16582740) with trigger_hurt
+11/04[09:23]Jodie Snow (STEAM_0:1:11085921) killed Jodie Snow (STEAM_0:1:11085921) with player
+11/04[09:23]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed John Smith (STEAM_0:0:16582740) with player
+11/04[09:25]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:25]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed Adam Jewd (STEAM_0:1:10374806) with player
+11/04[09:25]CiP4.45-CCA.15672 (STEAM_0:0:8975160) killed Stan Gray (STEAM_0:1:13115627) with player
+11/04[09:26]Sophie Green (STEAM_0:1:11085921) killed Sophie Green (STEAM_0:1:11085921) with player
+11/04[09:26]Matt Jameson (STEAM_0:1:4241097) killed CiP4.45-CCA.15672 (STEAM_0:0:8975160) with player
+11/04[09:26]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/04[09:26]Kevin O ' Malley (STEAM_0:1:5558212) killed Kevin O ' Malley (STEAM_0:1:5558212) with player
+11/04[09:27]Vivi Orunitia (STEAM_0:1:11676925) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/04[09:27]Samantha Green (STEAM_0:1:5558212) killed Samantha Green (STEAM_0:1:5558212) with player
+11/04[09:28]Samantha Green (STEAM_0:1:5558212) killed Samantha Green (STEAM_0:1:5558212) with player
+11/04[09:28]Samantha Green (STEAM_0:1:5558212) killed Samantha Green (STEAM_0:1:5558212) with player
+11/04[09:28]Samantha Green (STEAM_0:1:5558212) killed Samantha Green (STEAM_0:1:5558212) with player
+11/04[09:28]Samantha Green (STEAM_0:1:5558212) killed Samantha Green (STEAM_0:1:5558212) with player
+11/04[09:28]Chantelle Green (STEAM_0:0:9103466) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:28]Samantha Green (STEAM_0:1:5558212) killed Samantha Green (STEAM_0:1:5558212) with player
+11/04[09:28]Samantha Green (STEAM_0:1:5558212) killed Samantha Green (STEAM_0:1:5558212) with player
+11/04[09:28]Chantelle Green (STEAM_0:0:9103466) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:28]Chantelle Green (STEAM_0:0:9103466) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:28]Chantelle Green (STEAM_0:0:9103466) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:28]Chantelle Green (STEAM_0:0:9103466) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:29]Stacey Green (STEAM_0:1:10374806) killed Stacey Green (STEAM_0:1:10374806) with player
+11/04[09:29]Stacey Green (STEAM_0:1:10374806) killed Stacey Green (STEAM_0:1:10374806) with player
+11/04[09:29]Stacey Green (STEAM_0:1:10374806) killed Stacey Green (STEAM_0:1:10374806) with player
+11/04[09:29]Stacey Green (STEAM_0:1:10374806) killed Stacey Green (STEAM_0:1:10374806) with player
+11/04[09:29]Stacey Green (STEAM_0:1:10374806) killed Stacey Green (STEAM_0:1:10374806) with player
+11/04[09:29]Stacey Green (STEAM_0:1:10374806) killed Stacey Green (STEAM_0:1:10374806) with player
+11/04[09:29]Stacey Green (STEAM_0:1:10374806) killed Stacey Green (STEAM_0:1:10374806) with player
+11/04[09:29]Stacey Green (STEAM_0:1:10374806) killed Stacey Green (STEAM_0:1:10374806) with player
+11/04[09:29]Stacey Green (STEAM_0:1:10374806) killed Stacey Green (STEAM_0:1:10374806) with player
+11/04[09:29]Stacey Green (STEAM_0:1:10374806) killed Stacey Green (STEAM_0:1:10374806) with player
+11/04[09:29]Stacey Green (STEAM_0:1:10374806) killed Stacey Green (STEAM_0:1:10374806) with player
+11/04[09:29]Chantelle Green (STEAM_0:0:9103466) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:29]Chantelle Green (STEAM_0:0:9103466) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:29]Chantelle Green (STEAM_0:0:9103466) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:30]trigger_hurt killed Gedo Gray (STEAM_0:0:5394489) with trigger_hurt
+11/04[09:31]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/04[09:32]Emma Green (STEAM_0:1:13115627) killed Emma Green (STEAM_0:1:13115627) with player
+11/04[09:33]aliokatan (STEAM_0:0:3804880) killed aliokatan (STEAM_0:0:3804880) with player
+11/04[09:33]Quarah ' Quill (STEAM_0:0:3978744) killed Quarah ' Quill (STEAM_0:0:3978744) with player
+11/04[09:34]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/04[09:35]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/04[09:37]Phisan Suklin (STEAM_0:0:6737054) killed Phisan Suklin (STEAM_0:0:6737054) with player
+11/04[09:37]Phisan Suklin (STEAM_0:0:6737054) killed Phisan Suklin (STEAM_0:0:6737054) with player
+11/04[09:37]Phisan Suklin (STEAM_0:0:6737054) killed Phisan Suklin (STEAM_0:0:6737054) with player
+11/04[09:37]Phisan Suklin (STEAM_0:0:6737054) killed Phisan Suklin (STEAM_0:0:6737054) with player
+11/04[09:38]Phisan Suklin (STEAM_0:0:6737054) killed Phisan Suklin (STEAM_0:0:6737054) with player
+11/04[09:39]worldspawn killed Matt Jameson (STEAM_0:1:4241097)
+11/04[09:40]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:40]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed Samantha Green (STEAM_0:1:5558212) with player
+11/04[09:41]Chantelle Green (STEAM_0:0:9103466) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:41]Chantelle Green (STEAM_0:0:9103466) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:41]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) with player
+11/04[09:41]Matt Jameson (STEAM_0:1:4241097) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/04[09:42]Sophie Green (STEAM_0:1:11085921) killed Sophie Green (STEAM_0:1:11085921) with player
+11/04[09:42]Sophie Green (STEAM_0:1:11085921) killed Sophie Green (STEAM_0:1:11085921) with player
+11/04[09:42]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/04[09:42]Stan Green (STEAM_0:1:13115627) killed Stan Green (STEAM_0:1:13115627) with player
+11/04[09:43]Stan Green (STEAM_0:1:13115627) killed Stan Green (STEAM_0:1:13115627) with player
+11/04[09:43]CiP3.45-CCA.12555 (STEAM_0:0:8939877) killed CiP3.45-CCA.12555 (STEAM_0:0:8939877) with player
+11/04[09:43]Sophie Green (STEAM_0:1:11085921) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/04[09:44]Sophie Green (STEAM_0:1:11085921) killed Stan Green (STEAM_0:1:13115627) with player
+11/04[09:44]CiP4.45-CCA.15672 (STEAM_0:0:8975160) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:44]Stacey Green (STEAM_0:1:10374806) killed Matt Jameson (STEAM_0:1:4241097) with player
+11/04[09:44]Emma Green (STEAM_0:1:13115627) killed Emma Green (STEAM_0:1:13115627) with player
+11/04[09:44]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed Chantelle Green (STEAM_0:0:9103466) with player
+11/04[09:44]Emma Green (STEAM_0:1:13115627) killed Emma Green (STEAM_0:1:13115627) with player
+11/04[09:45]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed Samantha Green (STEAM_0:1:5558212) with player
+11/04[09:45]CEU2.45-CCA.55891 (STEAM_0:0:3978744) killed Sophie Green (STEAM_0:1:11085921) with player
+11/04[09:45]SqL.45-CCA.13867 (STEAM_0:1:5134642) killed CEU2.45-CCA.55891 (STEAM_0:0:3978744) with player
+11/04[09:45]CiP3.45-CCA.12555 (STEAM_0:0:8939877) killed Stacey Green (STEAM_0:1:10374806) with player
+11/04[09:45]Samantha Green (STEAM_0:1:5558212) killed Samantha Green (STEAM_0:1:5558212) with player
+11/04[09:45]CiP.45-CCA.Temp-177 (STEAM_0:0:14498745) killed Stacey Green (S
